@@ -1,0 +1,362 @@
+2021-12-29 16:48:32,171  INFO [main] LogUtil:10 - ************************** Test Execution Started ************************************
+2021-12-29 16:48:32,186  INFO [main] LogUtil:10 - =========== onStart :-TestNg-Automation Exercises===============
+2021-12-29 16:48:48,618  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - pORegisterWhileCheckout Started
+2021-12-29 16:48:48,619  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - 
+2021-12-29 16:48:48,664  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Place order and register user while checking out test has begun (Test case 14).
+2021-12-29 16:48:48,677  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - contactUs Started
+2021-12-29 16:48:48,677  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - 
+2021-12-29 16:48:48,678  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Conatact with owner test has begun (Test case 6).
+2021-12-29 16:48:48,810  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - verifyTestCases Started
+2021-12-29 16:48:48,811  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - 
+2021-12-29 16:48:48,812  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Verifing Testcases page test has begun (Test case 7).
+2021-12-29 16:48:48,864  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:48:48,869  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:48:48,874  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:48:49,500  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - searchAndVefiryProductInCart Started
+2021-12-29 16:48:49,501  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - 
+2021-12-29 16:48:49,505  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Searching product and verify after login test has begun (Test case 20).
+2021-12-29 16:48:49,702  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:48:49,845  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - User navigated to testcases page sucessfully
+2021-12-29 16:48:49,845  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Verifing Testcases page test has ended (Test case 7).
+2021-12-29 16:48:49,852  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - verifyTestCases Passed
+2021-12-29 16:48:50,713  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Clicked on ContactUs sucessfully and Navigated
+2021-12-29 16:48:50,865  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - viewCategoryProducts Started
+2021-12-29 16:48:50,866  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - 
+2021-12-29 16:48:50,869  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - View category products testcase has begun (Test case 18).
+2021-12-29 16:48:50,960  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:48:51,208  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - In Left-side Category list is displayed
+2021-12-29 16:48:51,509  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Clicked on women category sucessfully
+2021-12-29 16:48:52,482  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Contact form filled and submitted
+2021-12-29 16:48:52,577  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Sucess text message is visible after submiting conatact form
+2021-12-29 16:48:52,910  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Clicked on women category[Dress] sucessfully
+2021-12-29 16:48:53,022  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Driver Navigated to All products page sucessfully
+2021-12-29 16:48:53,043  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Text Women Dress Products is displayed
+2021-12-29 16:48:53,125  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - List of the products is displayed
+2021-12-29 16:48:54,523  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Driver Navigated to All products page sucessfully
+2021-12-29 16:48:54,603  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - List of the products is displayed
+2021-12-29 16:48:56,149  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Product name is entered and clicked on the search button
+2021-12-29 16:48:56,215  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Searched Product text is displayed sucessfully
+2021-12-29 16:48:56,264  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - All the products with searched product name are visible
+2021-12-29 16:48:56,641  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Clicked on men category and Tshirt category selected sucessfully
+2021-12-29 16:48:56,737  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Men - Tshirts Products is displayed
+2021-12-29 16:48:56,738  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - View category products testcase has ended (Test case 18).
+2021-12-29 16:48:56,741  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - viewCategoryProducts Passed
+2021-12-29 16:48:56,838  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Place order and register user while checking out test has ended (Test case 14).
+2021-12-29 16:48:56,840  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - pORegisterWhileCheckout Passed
+2021-12-29 16:48:57,778  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - User navigated to home page sucessfully
+2021-12-29 16:48:57,778  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Conatact with owner test has ended (Test case 6).
+2021-12-29 16:48:57,782  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - contactUs Passed
+2021-12-29 16:48:58,657  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - All the products with product details are visible in the cart
+2021-12-29 16:49:03,834  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - viewCategoryProducts Started
+2021-12-29 16:49:03,835  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - 
+2021-12-29 16:49:03,835  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - View brand category products testcase has begun (Test case 19).
+2021-12-29 16:49:03,847  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:05,706  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Logged in Sucessfully
+2021-12-29 16:49:07,130  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Clicked on products button
+2021-12-29 16:49:07,394  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Brands are visible on left side bar
+2021-12-29 16:49:08,289  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - verifingSubscription Started
+2021-12-29 16:49:08,290  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - 
+2021-12-29 16:49:08,290  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Verifing Subscription test has begun (Test case 10).
+2021-12-29 16:49:08,320  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:08,322  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Clicked on Cart button from dashboard
+2021-12-29 16:49:08,346  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - All the products with product details are visible in the cart
+2021-12-29 16:49:08,347  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Searching product and verify after login test has ended (Test case 20).
+2021-12-29 16:49:08,349  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - searchAndVefiryProductInCart Passed
+2021-12-29 16:49:09,076  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Scrolled down to footer and mail has been sent for subscription sucessfully
+2021-12-29 16:49:09,196  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Message of mail subscription is displayed sucessfully
+2021-12-29 16:49:09,196  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Verifing Subscription test has ended (Test case 10).
+2021-12-29 16:49:09,200  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - verifingSubscription Passed
+2021-12-29 16:49:10,704  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Clicked on Polo brand and navigated to Brand Page sucessfully
+2021-12-29 16:49:10,860  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Polo Brand products text is displayed
+2021-12-29 16:49:11,033  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Polo Brand products are displayed
+2021-12-29 16:49:12,571  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Kookie Kid Brand products text is displayed
+2021-12-29 16:49:12,631  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Kookie Kid Brand products are displayed
+2021-12-29 16:49:12,631  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - View brand category products testcase has ended (Test case 19).
+2021-12-29 16:49:12,632  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - pOLoginBeforeCheckout Started
+2021-12-29 16:49:12,633  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - 
+2021-12-29 16:49:12,634  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - viewCategoryProducts Passed
+2021-12-29 16:49:12,634  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Place order and register user before checking out test has begun (Test case 16).
+2021-12-29 16:49:12,645  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:12,645  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:12,878  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - registerUser Started
+2021-12-29 16:49:12,880  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - 
+2021-12-29 16:49:12,883  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Remove products from cart testcase has begun (Test case 17).
+2021-12-29 16:49:12,911  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:13,401  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Clicked on Sign up Or Login button sucessfully
+2021-12-29 16:49:13,535  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Login to your account is displayed
+2021-12-29 16:49:16,427  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Driver Navigated to All products page sucessfully
+2021-12-29 16:49:16,802  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - List of the products is displayed
+2021-12-29 16:49:18,793  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Remove products from cart testcase has ended (Test case 17).
+2021-12-29 16:49:18,796  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - registerUser Passed
+2021-12-29 16:49:21,109  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Logged in as Username is displayed sucessfully
+2021-12-29 16:49:23,971  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - downloadInvoiceAPurchase Started
+2021-12-29 16:49:23,972  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - 
+2021-12-29 16:49:23,973  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Dwonloading Invoice after purchasing product test has begun (Test case 24).
+2021-12-29 16:49:24,022  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:24,104  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - addProductTocart Started
+2021-12-29 16:49:24,104  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - 
+2021-12-29 16:49:24,105  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Adding product to cart test has begun (Test case 12).
+2021-12-29 16:49:24,177  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:26,591  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - verifyProductsDetails Started
+2021-12-29 16:49:26,592  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - 
+2021-12-29 16:49:26,592  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Searching product test has begun (Test case 9).
+2021-12-29 16:49:26,721  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:28,170  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - List of the products is displayed
+2021-12-29 16:49:28,600  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Driver Navigated to All products page sucessfully
+2021-12-29 16:49:28,738  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - List of the products is displayed
+2021-12-29 16:49:29,862  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Place order and register user before checking out test has ended (Test case 16).
+2021-12-29 16:49:29,865  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - pOLoginBeforeCheckout Passed
+2021-12-29 16:49:29,975  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Driver Navigated to All products page sucessfully
+2021-12-29 16:49:30,043  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Driver Navigated to All products page sucessfully
+2021-12-29 16:49:30,058  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - List of the products is displayed
+2021-12-29 16:49:30,135  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - List of the products is displayed
+2021-12-29 16:49:30,337  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Dwonloading Invoice after purchasing product test has ended (Test case 24).
+2021-12-29 16:49:30,339  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - downloadInvoiceAPurchase Passed
+2021-12-29 16:49:31,689  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Adding product to cart test has ended (Test case 12).
+2021-12-29 16:49:31,691  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - addProductTocart Passed
+2021-12-29 16:49:32,027  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Product name is entered and clicked on the search button
+2021-12-29 16:49:32,116  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Searched Product text is displayed sucessfully
+2021-12-29 16:49:32,170  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - All the products with searched product name are visible
+2021-12-29 16:49:32,170  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Searching product test has ended (Test case 9).
+2021-12-29 16:49:32,172  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - verifyProductsDetails Passed
+2021-12-29 16:49:33,666  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - addProductTocart Started
+2021-12-29 16:49:33,666  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - 
+2021-12-29 16:49:33,667  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Adding product to cart from Recomended products test has begun (Test case 22).
+2021-12-29 16:49:33,682  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:41,239  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - verifyCartInSubscription Started
+2021-12-29 16:49:41,239  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - 
+2021-12-29 16:49:41,240  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Verifing subscription in cart page with email test has begun (Test case 11).
+2021-12-29 16:49:41,378  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:42,436  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Clicked on cart button of home page
+2021-12-29 16:49:42,677  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Subscription text is displayed
+2021-12-29 16:49:43,768  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - signInAndLogOut Started
+2021-12-29 16:49:43,768  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - 
+2021-12-29 16:49:43,768  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - User signIn and signOut test has begun (Test case 4).
+2021-12-29 16:49:43,849  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:44,173  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Mail for the subscription in cart page sent sucessfully
+2021-12-29 16:49:44,174  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Sucessfull message displayed after subscription
+2021-12-29 16:49:44,174  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Verifing subscription in cart page with email test has ended (Test case 11).
+2021-12-29 16:49:44,175  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - verifyCartInSubscription Passed
+2021-12-29 16:49:44,761  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Clicked on Sign up Or Login button sucessfully
+2021-12-29 16:49:45,027  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Login to your account is displayed
+2021-12-29 16:49:45,686  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Recomended product is added to cart sucessfully
+2021-12-29 16:49:45,754  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Product is visble in the cart
+2021-12-29 16:49:45,754  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Adding product to cart from Recomended products test has ended (Test case 22).
+2021-12-29 16:49:45,757  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - addProductTocart Passed
+2021-12-29 16:49:45,856  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - productQuantityIncart Started
+2021-12-29 16:49:45,856  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - 
+2021-12-29 16:49:45,857  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Verifying product quantities in cart test has begun (Test case 13).
+2021-12-29 16:49:45,879  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:47,385  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Clicked on the view product button of the first product
+2021-12-29 16:49:47,467  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Details of the first product are visible
+2021-12-29 16:49:48,152  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - verifyProductsDetails Started
+2021-12-29 16:49:48,153  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - 
+2021-12-29 16:49:48,154  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Verifing product and it's page details test has begun (Test case 8).
+2021-12-29 16:49:48,175  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:48,230  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - The quantity value for the product is increased to 4
+2021-12-29 16:49:49,714  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Verifying product quantities in cart test has ended (Test case 13).
+2021-12-29 16:49:49,716  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - productQuantityIncart Passed
+2021-12-29 16:49:51,270  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Logged in as Username is displayed sucessfully
+2021-12-29 16:49:52,365  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Navigated to Login Page sucessfully
+2021-12-29 16:49:52,366  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - User can Sign-In and SignOut sucessfully
+2021-12-29 16:49:52,366  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - User signIn and signOut test has ended (Test case 4).
+2021-12-29 16:49:52,368  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - signInAndLogOut Passed
+2021-12-29 16:49:52,431  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Driver Navigated to All products page sucessfully
+2021-12-29 16:49:52,945  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - List of the products is displayed
+2021-12-29 16:49:54,703  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Clicked on the view product button of the first product
+2021-12-29 16:49:54,871  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Detail of first product is visible
+2021-12-29 16:49:54,963  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Name of the product is visible
+2021-12-29 16:49:55,100  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Category of the product is visible
+2021-12-29 16:49:55,192  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Price of the product is visible
+2021-12-29 16:49:55,272  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Avialability of the product is visible
+2021-12-29 16:49:55,329  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Condition of the product is visible
+2021-12-29 16:49:55,809  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Brand of the product is visible
+2021-12-29 16:49:55,810  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Verifing product and it's page details test has ended (Test case 8).
+2021-12-29 16:49:55,811  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - verifyProductsDetails Passed
+2021-12-29 16:49:56,159  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - reviewProducts Started
+2021-12-29 16:49:56,160  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - 
+2021-12-29 16:49:56,160  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Adding review to the product test has begun (Test case 21).
+2021-12-29 16:49:56,177  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:49:59,991  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Clicked on products button and Navigated to Products page
+2021-12-29 16:50:01,960  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Write your Review text heading is visible
+2021-12-29 16:50:02,926  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Review submitted for the product
+2021-12-29 16:50:03,010  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Sucess message displayed after submitting the review for the product
+2021-12-29 16:50:03,010  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Adding review to the product test has begun (Test case 21).
+2021-12-29 16:50:03,012  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - reviewProducts Passed
+2021-12-29 16:50:04,357  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - invalidSignIn Started
+2021-12-29 16:50:04,358  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - 
+2021-12-29 16:50:04,358  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - User with invalid email test has begun (Test case 3).
+2021-12-29 16:50:04,406  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:50:05,408  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Clicked on Sign up Or Login button sucessfully
+2021-12-29 16:50:05,671  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Login to your account is displayed
+2021-12-29 16:50:07,522  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - Incorrect credentials is displayed sucessfully
+2021-12-29 16:50:07,523  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - User with invalid email test has ended (Test case 3).
+2021-12-29 16:50:07,524  INFO [TestNG-test=TestNg-Automation Exercises-5] LogUtil:10 - invalidSignIn Passed
+2021-12-29 16:50:08,066  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - registerUser Started
+2021-12-29 16:50:08,067  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - 
+2021-12-29 16:50:08,068  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Register user testcase has begun (Test case 1).
+2021-12-29 16:50:08,076  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:50:08,766  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Clicked on Sign up Or Login button sucessfully
+2021-12-29 16:50:08,851  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - New User signup text is displayed
+2021-12-29 16:50:09,687  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - pORegisterBeforeCheckout Started
+2021-12-29 16:50:09,688  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - 
+2021-12-29 16:50:09,689  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Place order and register user before checking out test has begun (Test case 15).
+2021-12-29 16:50:09,700  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:50:09,925  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Sign up process navigated further
+2021-12-29 16:50:09,952  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - Register user testcase has ended (Test case 1).
+2021-12-29 16:50:09,953  INFO [TestNG-test=TestNg-Automation Exercises-4] LogUtil:10 - registerUser Passed
+2021-12-29 16:50:10,333  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Clicked on Sign up Or Login button sucessfully
+2021-12-29 16:50:10,394  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - New User signup text is displayed
+2021-12-29 16:50:12,065  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Sign up process navigated further
+2021-12-29 16:50:12,097  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - Place order and register user before checking out test has ended (Test case 15).
+2021-12-29 16:50:12,099  INFO [TestNG-test=TestNg-Automation Exercises-2] LogUtil:10 - pORegisterBeforeCheckout Passed
+2021-12-29 16:50:16,569  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - validSignIn Started
+2021-12-29 16:50:16,569  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - 
+2021-12-29 16:50:16,569  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Validating login page with valid credentials test has begun (Test case 2).
+2021-12-29 16:50:16,575  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Navigated to Homepage sucessfully
+2021-12-29 16:50:17,020  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Clicked on Sign up Or Login button sucessfully
+2021-12-29 16:50:17,065  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Login to your account is displayed
+2021-12-29 16:50:20,591  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Logged in as Username is displayed sucessfully
+2021-12-29 16:50:21,923  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Account is deleted
+2021-12-29 16:50:21,947  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - Validating login page with valid credentials test has ended (Test case 2).
+2021-12-29 16:50:21,948  INFO [TestNG-test=TestNg-Automation Exercises-1] LogUtil:10 - validSignIn Passed
+2021-12-29 16:52:10,614  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - existingEmailVeify Started
+2021-12-29 16:52:10,614  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - 
+2021-12-29 16:52:10,617  INFO [TestNG-test=TestNg-Automation Exercises-3] LogUtil:10 - Skipped because of - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'QT-INBG-LT0684', ip: '192.168.29.147', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d39e5c4459fe17f5496fb62a02a71ad6, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\YASHAW~1.H\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:51010}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51010/devtoo..., se:cdpVersion: 96.0.4664.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d39e5c4459fe17f5496fb62a02a71ad6
+2021-12-29 16:52:10,688  INFO [main] LogUtil:10 - =========== onFinish :-TestNg-Automation Exercises===============
+2021-12-29 16:52:10,826 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:10,863 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2021-12-29 16:52:10,867 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2021-12-29 16:52:10,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2021-12-29 16:52:10,870 DEBUG [main] cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2021-12-29 16:52:11,075 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,075 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2021-12-29 16:52:11,076 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2021-12-29 16:52:11,077 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2021-12-29 16:52:11,078 DEBUG [main] cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2021-12-29 16:52:11,302 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,303 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2021-12-29 16:52:11,303 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2021-12-29 16:52:11,304 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2021-12-29 16:52:11,304 DEBUG [main] cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2021-12-29 16:52:11,313 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,314 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2021-12-29 16:52:11,315 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2021-12-29 16:52:11,316 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2021-12-29 16:52:11,316 DEBUG [main] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2021-12-29 16:52:11,319 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2021-12-29 16:52:11,321 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2021-12-29 16:52:11,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2021-12-29 16:52:11,323 DEBUG [main] cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2021-12-29 16:52:11,328 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,329 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2021-12-29 16:52:11,330 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2021-12-29 16:52:11,331 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2021-12-29 16:52:11,331 DEBUG [main] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2021-12-29 16:52:11,341 DEBUG [main] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,341 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,342 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2021-12-29 16:52:11,343 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2021-12-29 16:52:11,344 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2021-12-29 16:52:11,344 DEBUG [main] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2021-12-29 16:52:11,357 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,358 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2021-12-29 16:52:11,359 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2021-12-29 16:52:11,360 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2021-12-29 16:52:11,360 DEBUG [main] cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2021-12-29 16:52:11,366 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,367 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2021-12-29 16:52:11,368 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2021-12-29 16:52:11,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2021-12-29 16:52:11,369 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2021-12-29 16:52:11,372 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,372 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2021-12-29 16:52:11,373 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2021-12-29 16:52:11,374 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2021-12-29 16:52:11,374 DEBUG [main] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2021-12-29 16:52:11,388 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2021-12-29 16:52:11,390 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2021-12-29 16:52:11,391 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2021-12-29 16:52:11,391 DEBUG [main] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2021-12-29 16:52:11,419 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,420 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2021-12-29 16:52:11,421 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2021-12-29 16:52:11,422 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2021-12-29 16:52:11,422 DEBUG [main] cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2021-12-29 16:52:11,451 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2021-12-29 16:52:11,453 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2021-12-29 16:52:11,454 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2021-12-29 16:52:11,454 DEBUG [main] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2021-12-29 16:52:11,465 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,468 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,470 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,473 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,475 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,477 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,480 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,482 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,484 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,485 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,487 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,489 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,490 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,491 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,495 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,501 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,503 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,505 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,507 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,508 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,509 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,510 DEBUG [main] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-12-29 16:52:11,510 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,511 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2021-12-29 16:52:11,512 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2021-12-29 16:52:11,512 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2021-12-29 16:52:11,513 DEBUG [main] cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2021-12-29 16:52:11,515 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,516 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2021-12-29 16:52:11,517 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2021-12-29 16:52:11,518 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2021-12-29 16:52:11,518 DEBUG [main] cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2021-12-29 16:52:11,520 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,520 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2021-12-29 16:52:11,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2021-12-29 16:52:11,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2021-12-29 16:52:11,522 DEBUG [main] cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2021-12-29 16:52:11,523 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2021-12-29 16:52:11,525 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2021-12-29 16:52:11,525 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2021-12-29 16:52:11,526 DEBUG [main] cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2021-12-29 16:52:11,528 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,529 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2021-12-29 16:52:11,530 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2021-12-29 16:52:11,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2021-12-29 16:52:11,531 DEBUG [main] cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2021-12-29 16:52:11,534 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2021-12-29 16:52:11,535 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2021-12-29 16:52:11,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2021-12-29 16:52:11,536 DEBUG [main] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2021-12-29 16:52:11,589 DEBUG [main] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,590 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2021-12-29 16:52:11,591 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2021-12-29 16:52:11,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2021-12-29 16:52:11,592 DEBUG [main] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2021-12-29 16:52:11,594 DEBUG [main] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-12-29 16:52:11,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2021-12-29 16:52:11,596 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2021-12-29 16:52:11,596 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2021-12-29 16:52:11,597 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/yashawanthkumar.h/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
