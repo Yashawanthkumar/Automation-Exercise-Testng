@@ -31,7 +31,6 @@ public class ValidLoginTest extends BaseTest {
 			LogUtil.info("Account is deleted");
 			softAssertion.assertTrue(accDeletedPage.accDeletedVisible());
 			LogUtil.info("Account deleted is displayed sucessfully");
-
 			LogUtil.info("User can Sign-In and delete account sucessfully");
 		} catch (Exception e) {
 			e.printStackTrace();

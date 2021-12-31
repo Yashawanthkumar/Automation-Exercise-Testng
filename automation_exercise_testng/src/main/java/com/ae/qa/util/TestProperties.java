@@ -23,7 +23,9 @@ public class TestProperties {
 		try {
 			FileInputStream Locator;
 			Locator = new FileInputStream(Constants.property_filepath);
+			System.out.println("File Path : "+Constants.property_filepath);
 			props.load(Locator);
+			System.out.println("Property of the browser: "+props.getProperty("browser"));
 		} catch (IOException e) {
 			//LoggerUtil.getLogger().fatal("Could not load properties : " + e.getMessage());
 		}

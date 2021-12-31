@@ -37,7 +37,7 @@ public class BaseTest {
 	@BeforeSuite(alwaysRun = true)
 	public void globalSetup() {
 		LogUtil.info("************************** Test Execution Started ************************************");
-		LogUtil.startTestCase(new Throwable().getStackTrace()[0].getMethodName());
+		//LogUtil.startTestCase(new Throwable().getStackTrace()[0].getMethodName());
 		TestProperties.loadAllPropertie();
 	}
 
@@ -46,14 +46,13 @@ public class BaseTest {
 	 */
 	@BeforeClass
 	protected void setup() {
-
+		
 		if (TestProperties.getProperty("browser").equalsIgnoreCase("chrome")) {
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions ops = new ChromeOptions();
 			ops.addArguments("disable-infobars");
 			driver = new ChromeDriver(ops);
 		}
-
 		else if (TestProperties.getProperty("browser").equalsIgnoreCase("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
 			FirefoxOptions ops = new FirefoxOptions();

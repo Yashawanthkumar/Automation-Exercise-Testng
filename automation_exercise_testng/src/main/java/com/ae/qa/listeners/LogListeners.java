@@ -23,24 +23,28 @@ public class LogListeners implements ITestListener {
 		LogUtil.info(result.getMethod().getMethodName() + " Started");
 		LogUtil.info(result.getMethod().getDescription());
 	}
+	
 	public void onTestSuccess(ITestResult result) {
-		LogUtil.info(result.getMethod().getMethodName() + " Passed");				
+		LogUtil.info(result.getMethod().getMethodName() + " Passed\n");				
 	}
+	
 	public void onTestFailure(ITestResult result) {
 		LogUtil.info("Failed because of - "+ result.getThrowable());		
 	}
+	
 	public void onTestSkipped(ITestResult result) {
 		LogUtil.info("Skipped because of - "+ result.getThrowable());		
 	}
+	
 	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
 		// TODO Auto-generated method stub		
 	}
+
 	public void onStart(ITestContext context) {
 		LogUtil.info("=========== onStart :-" + context.getName() + "===============");
-		
 	}
+
 	public void onFinish(ITestContext context) {
-		LogUtil.info("=========== onFinish :-" + context.getName() + "===============");
-		
+		LogUtil.info("=========== onFinish :-" + context.getName() + "===============");	
 	}
 }

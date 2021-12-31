@@ -24,7 +24,7 @@ public class RegisterTest extends BaseTest {
 			HomePage homePage = new HomePage();
 			softAssertion.assertEquals(homePage.verifyHomepage(), "Automation Exercise");
 			LogUtil.info("Navigated to Homepage sucessfully");
-
+			
 			SignUpLoginPage signUpLoginPage = homePage.signUpOrLogin();
 			LogUtil.info("Clicked on Sign up Or Login button sucessfully");
 			softAssertion.assertTrue(signUpLoginPage.isTxtNewUserSignupVisible());

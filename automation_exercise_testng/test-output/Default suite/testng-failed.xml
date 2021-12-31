@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.ae.tests.LogOutUserTest">
+      <class name="com.ae.tests.DemoTest">
         <methods>
           <include name="setup"/>
-          <include name="signInAndLogOut"/>
+          <include name="wrapUp"/>
+          <include name="demo"/>
           <include name="globalSetup"/>
         </methods>
-      </class> <!-- com.ae.tests.LogOutUserTest -->
+      </class> <!-- com.ae.tests.DemoTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

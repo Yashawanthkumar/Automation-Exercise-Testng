@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <listeners>
-    <listener class-name="com.ae.qa.listeners.ReportListeners"/>
-    <listener class-name="com.ae.qa.listeners.LogListeners"/>
-  </listeners>
-  <test thread-count="5" parallel="classes" name="TestNg-Automation Exercises(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.ae.tests.ExistEmailRegistrationTest">
+      <class name="com.ae.tests.DemoTest">
         <methods>
           <include name="setup"/>
           <include name="wrapUp"/>
+          <include name="demo"/>
           <include name="globalSetup"/>
-          <include name="existingEmailVeify"/>
         </methods>
-      </class> <!-- com.ae.tests.ExistEmailRegistrationTest -->
+      </class> <!-- com.ae.tests.DemoTest -->
     </classes>
-  </test> <!-- TestNg-Automation Exercises(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -4,6 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
+import com.ae.qa.context.Constants;
 import com.ae.qa.util.BasePage;
 import com.ae.qa.util.LogUtil;
 
@@ -109,23 +110,23 @@ public class SignUpPage extends BasePage {
 		LogUtil.info("First name sent");
 		editTxtLasttName.sendKeys("Hodlur");
 		LogUtil.info("Last name sent");
-		editTxtCompany.sendKeys("QualiTest");
+		editTxtCompany.sendKeys(Constants.companyName);
 		LogUtil.info("Company name sent");
-		editTxtAddrs1.sendKeys("Sector number 45");
+		editTxtAddrs1.sendKeys(Constants.address1);
 		LogUtil.info("Addrs1 sent");
-		editTxtAddrs1.sendKeys("Navanagar");
+		editTxtAddrs1.sendKeys(Constants.address2);
 		LogUtil.info("Addrs2 sent");
 		dropDownCountry.click();
 		LogUtil.info("Country Clicked");
 		selectCountry.click();
 		LogUtil.info("Country Selected");
-		editTxtState.sendKeys("Karnataka");
+		editTxtState.sendKeys(Constants.state);
 		LogUtil.info("State sent");
-		editTxtCity.sendKeys("Bagalakot");
+		editTxtCity.sendKeys(Constants.city);
 		LogUtil.info("District sent");
-		editTxtZipcode.sendKeys("587102");
+		editTxtZipcode.sendKeys(Constants.zipCode);
 		LogUtil.info("Zipcode sent");
-		editTxtMobileNum.sendKeys("7022166524");
+		editTxtMobileNum.sendKeys(Constants.mobileNum);
 		LogUtil.info("Number sent");
 		btnCreateAcc.click();
 		LogUtil.info("Clicked create account");

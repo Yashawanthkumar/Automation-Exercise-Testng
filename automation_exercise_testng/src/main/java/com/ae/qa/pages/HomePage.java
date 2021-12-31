@@ -14,6 +14,12 @@ public class HomePage extends BasePage {
 	@FindBy(how=How.XPATH, using="//a[@href='/login']")
 	public WebElement btnSignUpOrLogin;
 	
+	@FindBy(how=How.XPATH, using="//a[@id='scrollUp']")
+	public WebElement btnUpArrow;
+	
+	@FindBy(how=How.XPATH, using="//div[@class='single-widget']/h2")
+	public WebElement txtSubscription;
+	
 	@FindBy(how=How.XPATH, using="//ul[@class='nav navbar-nav']/li[7]")
 	public WebElement btnContactUs;
 	
@@ -56,6 +62,19 @@ public class HomePage extends BasePage {
 	@FindBy(how=How.XPATH, using="//p//a[@href='/view_cart']")
 	public WebElement viewCart;
 	
+	@FindBy(how=How.XPATH, using="//h2[text()='Full-Fledged practice website for Automation Engineers']")
+	public WebElement txtAutomationEngineer;
+	
+	public void scrollToUpWithoutButton()
+	{
+		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);",txtAutomationEngineer);
+	}
+	
+	public boolean isTxtAutomationEngineerVisible()
+	{
+		return txtAutomationEngineer.isDisplayed();
+	}
+	
 	public WomenCategoryPage clickOnWomenCategoryDress()
 	{
 		womenCategoryDress.click();
@@ -78,6 +97,11 @@ public class HomePage extends BasePage {
 			viewCart.click();
 		}
 		return new CartPage();
+	}
+	
+	public void clickOnButtonUp()
+	{
+		btnUpArrow.click();
 	}
 	
 	public boolean isCategoryVisible()
@@ -103,12 +127,19 @@ public class HomePage extends BasePage {
 		return txtSucessSubscription.isDisplayed();
 	}
 	
+	public boolean isSubscriptionVisible()
+	{
+		((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", txtSubscription);
+		return txtSubscription.isDisplayed();
+	}
+	
 	public void sendMailForSubscription(String email)
 	{
 		((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", editTextSubscription);
 		editTextSubscription.sendKeys(email);
 		btnArrowSubscription.click();
 	}
+	
 	public TestCasesPage clickOnTestCases()
 	{
 		btnTestCases.click();
