@@ -1,336 +1,314 @@
-[INFO ] 2021-12-31 14:17:17.635 [main] LogUtil - ************************** Test Execution Started ************************************
-[INFO ] 2021-12-31 14:17:17.657 [TestNG-tests-1] LogUtil - =========== onStart :-TestNg-Automation Exercises===============
-[INFO ] 2021-12-31 14:17:28.572 [TestNG-tests-1] LogUtil - viewCategoryProducts Started
+[INFO ] 2022-01-04 09:52:58.575 [main] LogUtil - ************************** Test Execution Started ************************************
+[INFO ] 2022-01-04 09:52:58.608 [TestNG-tests-1] LogUtil - =========== onStart :-Automation-Exercise-Testng===============
+[INFO ] 2022-01-04 09:53:12.909 [TestNG-tests-1] LogUtil - scrollWithUpButtonTest Started
+[INFO ] 2022-01-04 09:53:12.909 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:53:12.919 [TestNG-tests-1] LogUtil - Clicking up button arrow test has begun (Test case 25).
+[INFO ] 2022-01-04 09:53:12.972 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:53:13.067 [TestNG-tests-1] LogUtil - Subscription text is visible
+[INFO ] 2022-01-04 09:53:13.126 [TestNG-tests-1] LogUtil - Clicked on up arrow and page moved up sucessfully
+[INFO ] 2022-01-04 09:53:13.193 [TestNG-tests-1] LogUtil - Full-Fledged practice website for Automation Engineers is displayed
+[INFO ] 2022-01-04 09:53:13.193 [TestNG-tests-1] LogUtil - Clicking up button arrow test has ended (Test case 25).
+[INFO ] 2022-01-04 09:53:13.198 [TestNG-tests-1] LogUtil - scrollWithUpButtonTest Passed
 
-[INFO ] 2021-12-31 14:17:28.572 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:17:28.580 [TestNG-tests-1] LogUtil - View category products testcase has begun (Test case 18).
-[INFO ] 2021-12-31 14:17:28.634 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:17:28.705 [TestNG-tests-1] LogUtil - In Left-side Category list is displayed
-[INFO ] 2021-12-31 14:17:28.778 [TestNG-tests-1] LogUtil - Clicked on women category sucessfully
-[INFO ] 2021-12-31 14:17:29.979 [TestNG-tests-1] LogUtil - Clicked on women category[Dress] sucessfully
-[INFO ] 2021-12-31 14:17:30.019 [TestNG-tests-1] LogUtil - Text Women Dress Products is displayed
-[INFO ] 2021-12-31 14:17:34.444 [TestNG-tests-1] LogUtil - Clicked on men category and Tshirt category selected sucessfully
-[INFO ] 2021-12-31 14:17:34.477 [TestNG-tests-1] LogUtil - Men - Tshirts Products is displayed
-[INFO ] 2021-12-31 14:17:34.477 [TestNG-tests-1] LogUtil - View category products testcase has ended (Test case 18).
-[INFO ] 2021-12-31 14:17:34.481 [TestNG-tests-1] LogUtil - viewCategoryProducts Passed
+[INFO ] 2022-01-04 09:53:26.926 [TestNG-tests-1] LogUtil - scrollWithOutUpButtonTest Started
+[INFO ] 2022-01-04 09:53:26.926 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:53:26.926 [TestNG-tests-1] LogUtil - Without Clicking up button arrow page scroll up test has begun (Test case 26).
+[INFO ] 2022-01-04 09:53:26.932 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:53:27.004 [TestNG-tests-1] LogUtil - Subscription text is visible
+[INFO ] 2022-01-04 09:53:27.030 [TestNG-tests-1] LogUtil - Without Click on up arrow button page moved up sucessfully
+[INFO ] 2022-01-04 09:53:27.089 [TestNG-tests-1] LogUtil - Full-Fledged practice website for Automation Engineers is displayed
+[INFO ] 2022-01-04 09:53:27.089 [TestNG-tests-1] LogUtil - Without Clicking up button arrow page scroll up test has ended (Test case 26).
+[INFO ] 2022-01-04 09:53:27.090 [TestNG-tests-1] LogUtil - scrollWithOutUpButtonTest Passed
 
-[INFO ] 2021-12-31 14:17:48.790 [TestNG-tests-1] LogUtil - verifyTestCases Started
+[INFO ] 2022-01-04 09:53:35.439 [TestNG-tests-1] LogUtil - searchAndVefiryProductInCart Started
+[INFO ] 2022-01-04 09:53:35.439 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:53:35.440 [TestNG-tests-1] LogUtil - Searching product and verify after login test has begun (Test case 20).
+[INFO ] 2022-01-04 09:53:35.447 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:53:39.449 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
+[INFO ] 2022-01-04 09:53:39.481 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 09:53:40.909 [TestNG-tests-1] LogUtil - Product name is entered and clicked on the search button
+[INFO ] 2022-01-04 09:53:40.939 [TestNG-tests-1] LogUtil - Searched Product text is displayed sucessfully
+[INFO ] 2022-01-04 09:53:40.964 [TestNG-tests-1] LogUtil - All the products with searched product name are visible
+[INFO ] 2022-01-04 09:53:42.840 [TestNG-tests-1] LogUtil - All the products with product details are visible in the cart
+[INFO ] 2022-01-04 09:53:51.341 [TestNG-tests-1] LogUtil - Logged in Sucessfully
+[INFO ] 2022-01-04 09:53:52.691 [TestNG-tests-1] LogUtil - Clicked on Cart button from dashboard
+[INFO ] 2022-01-04 09:53:52.699 [TestNG-tests-1] LogUtil - All the products with product details are visible in the cart
+[INFO ] 2022-01-04 09:53:52.700 [TestNG-tests-1] LogUtil - Searching product and verify after login test has ended (Test case 20).
+[INFO ] 2022-01-04 09:53:52.700 [TestNG-tests-1] LogUtil - searchAndVefiryProductInCart Passed
 
-[INFO ] 2021-12-31 14:17:48.790 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:17:48.791 [TestNG-tests-1] LogUtil - Verifing Testcases page test has begun (Test case 7).
-[INFO ] 2021-12-31 14:17:48.800 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:17:50.260 [TestNG-tests-1] LogUtil - User navigated to testcases page sucessfully
-[INFO ] 2021-12-31 14:17:50.261 [TestNG-tests-1] LogUtil - Verifing Testcases page test has ended (Test case 7).
-[INFO ] 2021-12-31 14:17:50.263 [TestNG-tests-1] LogUtil - verifyTestCases Passed
+[INFO ] 2022-01-04 09:54:01.249 [TestNG-tests-1] LogUtil - viewCategoryProducts Started
+[INFO ] 2022-01-04 09:54:01.249 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:54:01.250 [TestNG-tests-1] LogUtil - View brand category products testcase has begun (Test case 19).
+[INFO ] 2022-01-04 09:54:01.257 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:54:06.025 [TestNG-tests-1] LogUtil - Clicked on products button
+[INFO ] 2022-01-04 09:54:06.054 [TestNG-tests-1] LogUtil - Brands are visible on left side bar
+[INFO ] 2022-01-04 09:54:10.264 [TestNG-tests-1] LogUtil - Clicked on Polo brand and navigated to Brand Page sucessfully
+[INFO ] 2022-01-04 09:54:10.301 [TestNG-tests-1] LogUtil - Polo Brand products text is displayed
+[INFO ] 2022-01-04 09:54:10.330 [TestNG-tests-1] LogUtil - Polo Brand products are displayed
+[INFO ] 2022-01-04 09:54:11.384 [TestNG-tests-1] LogUtil - Kookie Kid Brand products text is displayed
+[INFO ] 2022-01-04 09:54:11.410 [TestNG-tests-1] LogUtil - Kookie Kid Brand products are displayed
+[INFO ] 2022-01-04 09:54:11.410 [TestNG-tests-1] LogUtil - View brand category products testcase has ended (Test case 19).
+[INFO ] 2022-01-04 09:54:11.411 [TestNG-tests-1] LogUtil - viewCategoryProducts Passed
 
-[INFO ] 2021-12-31 14:18:01.448 [TestNG-tests-1] LogUtil - contactUs Started
+[INFO ] 2022-01-04 09:54:20.073 [TestNG-tests-1] LogUtil - registerUser Started
+[INFO ] 2022-01-04 09:54:20.073 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:54:20.074 [TestNG-tests-1] LogUtil - Remove products from cart testcase has begun (Test case 17).
+[INFO ] 2022-01-04 09:54:20.081 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:54:24.212 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
+[INFO ] 2022-01-04 09:54:24.247 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 09:54:27.859 [TestNG-tests-1] LogUtil - Products are added to cart
+[INFO ] 2022-01-04 09:54:27.906 [TestNG-tests-1] LogUtil - Price, Quantity, and Total price of the every product is displayed
+[INFO ] 2022-01-04 09:54:27.991 [TestNG-tests-1] LogUtil - Product is deleted from the cart and verification completed
+[INFO ] 2022-01-04 09:54:27.991 [TestNG-tests-1] LogUtil - Remove products from cart testcase has ended (Test case 17).
+[INFO ] 2022-01-04 09:54:27.992 [TestNG-tests-1] LogUtil - registerUser Passed
 
-[INFO ] 2021-12-31 14:18:01.449 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:18:01.449 [TestNG-tests-1] LogUtil - Conatact with owner test has begun (Test case 6).
-[INFO ] 2021-12-31 14:18:01.457 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:18:05.624 [TestNG-tests-1] LogUtil - Clicked on ContactUs sucessfully and Navigated
-[INFO ] 2021-12-31 14:18:06.368 [TestNG-tests-1] LogUtil - Contact form filled and submitted
-[INFO ] 2021-12-31 14:18:06.425 [TestNG-tests-1] LogUtil - Sucess text message is visible after submiting conatact form
-[INFO ] 2021-12-31 14:18:17.392 [TestNG-tests-1] LogUtil - User navigated to home page sucessfully
-[INFO ] 2021-12-31 14:18:17.392 [TestNG-tests-1] LogUtil - Conatact with owner test has ended (Test case 6).
-[INFO ] 2021-12-31 14:18:17.393 [TestNG-tests-1] LogUtil - contactUs Passed
+[INFO ] 2022-01-04 09:54:37.758 [TestNG-tests-1] LogUtil - addProductTocart Started
+[INFO ] 2022-01-04 09:54:37.758 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:54:37.758 [TestNG-tests-1] LogUtil - Adding product to cart test has begun (Test case 12).
+[INFO ] 2022-01-04 09:54:37.766 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:54:48.326 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
+[INFO ] 2022-01-04 09:54:48.362 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 09:54:54.204 [TestNG-tests-1] LogUtil - Products are added to cart, after clicking continue to shopping button
+[INFO ] 2022-01-04 09:54:54.222 [TestNG-tests-1] LogUtil - Both products are displayed in the cart section
+[INFO ] 2022-01-04 09:54:54.263 [TestNG-tests-1] LogUtil - Price, Quantity, and Total price of the every product is displayed
+[INFO ] 2022-01-04 09:54:54.264 [TestNG-tests-1] LogUtil - Adding product to cart test has ended (Test case 12).
+[INFO ] 2022-01-04 09:54:54.264 [TestNG-tests-1] LogUtil - addProductTocart Passed
 
-[INFO ] 2021-12-31 14:18:25.861 [TestNG-tests-1] LogUtil - searchAndVefiryProductInCart Started
+[INFO ] 2022-01-04 09:55:03.124 [TestNG-tests-1] LogUtil - verifyProductsDetails Started
+[INFO ] 2022-01-04 09:55:03.125 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:55:03.125 [TestNG-tests-1] LogUtil - Verifing product and it's page details test has begun (Test case 8).
+[INFO ] 2022-01-04 09:55:03.133 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:55:07.064 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
+[INFO ] 2022-01-04 09:55:07.095 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 09:55:08.673 [TestNG-tests-1] LogUtil - Clicked on the view product button of the first product
+[INFO ] 2022-01-04 09:55:08.704 [TestNG-tests-1] LogUtil - Detail of first product is visible
+[INFO ] 2022-01-04 09:55:08.732 [TestNG-tests-1] LogUtil - Name of the product is visible
+[INFO ] 2022-01-04 09:55:08.757 [TestNG-tests-1] LogUtil - Category of the product is visible
+[INFO ] 2022-01-04 09:55:08.785 [TestNG-tests-1] LogUtil - Price of the product is visible
+[INFO ] 2022-01-04 09:55:08.814 [TestNG-tests-1] LogUtil - Avialability of the product is visible
+[INFO ] 2022-01-04 09:55:08.843 [TestNG-tests-1] LogUtil - Condition of the product is visible
+[INFO ] 2022-01-04 09:55:08.869 [TestNG-tests-1] LogUtil - Brand of the product is visible
+[INFO ] 2022-01-04 09:55:08.869 [TestNG-tests-1] LogUtil - Verifing product and it's page details test has ended (Test case 8).
+[INFO ] 2022-01-04 09:55:08.870 [TestNG-tests-1] LogUtil - verifyProductsDetails Passed
 
-[INFO ] 2021-12-31 14:18:25.861 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:18:25.862 [TestNG-tests-1] LogUtil - Searching product and verify after login test has begun (Test case 20).
-[INFO ] 2021-12-31 14:18:25.871 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:18:29.596 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
-[INFO ] 2021-12-31 14:18:29.631 [TestNG-tests-1] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 14:18:31.047 [TestNG-tests-1] LogUtil - Product name is entered and clicked on the search button
-[INFO ] 2021-12-31 14:18:31.083 [TestNG-tests-1] LogUtil - Searched Product text is displayed sucessfully
-[INFO ] 2021-12-31 14:18:31.106 [TestNG-tests-1] LogUtil - All the products with searched product name are visible
-[INFO ] 2021-12-31 14:18:33.008 [TestNG-tests-1] LogUtil - All the products with product details are visible in the cart
-[INFO ] 2021-12-31 14:18:43.010 [TestNG-tests-1] LogUtil - Logged in Sucessfully
-[INFO ] 2021-12-31 14:18:44.355 [TestNG-tests-1] LogUtil - Clicked on Cart button from dashboard
-[INFO ] 2021-12-31 14:18:44.368 [TestNG-tests-1] LogUtil - All the products with product details are visible in the cart
-[INFO ] 2021-12-31 14:18:44.369 [TestNG-tests-1] LogUtil - Searching product and verify after login test has ended (Test case 20).
-[INFO ] 2021-12-31 14:18:44.369 [TestNG-tests-1] LogUtil - searchAndVefiryProductInCart Passed
+[INFO ] 2022-01-04 09:55:17.447 [TestNG-tests-1] LogUtil - reviewProducts Started
+[INFO ] 2022-01-04 09:55:17.447 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:55:17.447 [TestNG-tests-1] LogUtil - Adding review to the product test has begun (Test case 21).
+[INFO ] 2022-01-04 09:55:17.457 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:55:21.409 [TestNG-tests-1] LogUtil - Clicked on products button and Navigated to Products page
+[INFO ] 2022-01-04 09:55:22.728 [TestNG-tests-1] LogUtil - Write your Review text heading is visible
+[INFO ] 2022-01-04 09:55:23.031 [TestNG-tests-1] LogUtil - Review submitted for the product
+[INFO ] 2022-01-04 09:55:23.064 [TestNG-tests-1] LogUtil - Sucess message displayed after submitting the review for the product
+[INFO ] 2022-01-04 09:55:23.064 [TestNG-tests-1] LogUtil - Adding review to the product test has begun (Test case 21).
+[INFO ] 2022-01-04 09:55:23.065 [TestNG-tests-1] LogUtil - reviewProducts Passed
 
-[INFO ] 2021-12-31 14:19:00.832 [TestNG-tests-1] LogUtil - pORegisterWhileCheckout Started
+[INFO ] 2022-01-04 09:55:33.466 [TestNG-tests-1] LogUtil - existingEmailVeify Started
+[INFO ] 2022-01-04 09:55:33.466 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:55:33.466 [TestNG-tests-1] LogUtil - SignUp with existing email test has begun (Test case 5).
+[INFO ] 2022-01-04 09:55:33.472 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:55:33.953 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
+[INFO ] 2022-01-04 09:55:33.996 [TestNG-tests-1] LogUtil - New User signup text is displayed
+[INFO ] 2022-01-04 09:55:34.667 [TestNG-tests-1] LogUtil - Email already registered text is displayed
+[INFO ] 2022-01-04 09:55:34.669 [TestNG-tests-1] LogUtil - SignUp with existing email test has ended (Test case 5).
+[INFO ] 2022-01-04 09:55:34.669 [TestNG-tests-1] LogUtil - existingEmailVeify Passed
 
-[INFO ] 2021-12-31 14:19:00.832 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:19:00.832 [TestNG-tests-1] LogUtil - Place order and register user while checking out test has begun (Test case 14).
-[INFO ] 2021-12-31 14:19:00.839 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:19:10.065 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
-[INFO ] 2021-12-31 14:19:10.098 [TestNG-tests-1] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 14:19:14.148 [TestNG-tests-1] LogUtil - Products are added to cart
-[INFO ] 2021-12-31 14:19:14.279 [TestNG-tests-1] LogUtil - Clicked on check out to order products
-[INFO ] 2021-12-31 14:19:14.279 [TestNG-tests-1] LogUtil - Need to Sign-In and Register Modal displayed
-[INFO ] 2021-12-31 14:19:14.758 [TestNG-tests-1] LogUtil - Navigated to SignUp or Sign In page to register User
-[INFO ] 2021-12-31 14:19:18.560 [TestNG-tests-1] LogUtil - Place order and register user while checking out test has ended (Test case 14).
-[INFO ] 2021-12-31 14:19:18.562 [TestNG-tests-1] LogUtil - pORegisterWhileCheckout Passed
+[INFO ] 2022-01-04 09:55:49.258 [TestNG-tests-1] LogUtil - invalidSignIn Started
+[INFO ] 2022-01-04 09:55:49.258 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:55:49.258 [TestNG-tests-1] LogUtil - User with invalid email test has begun (Test case 3).
+[INFO ] 2022-01-04 09:55:49.271 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:55:50.592 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
+[INFO ] 2022-01-04 09:55:50.639 [TestNG-tests-1] LogUtil - Login to your account is displayed
+[INFO ] 2022-01-04 09:55:52.043 [TestNG-tests-1] LogUtil - Incorrect credentials is displayed sucessfully
+[INFO ] 2022-01-04 09:55:52.043 [TestNG-tests-1] LogUtil - User with invalid email test has ended (Test case 3).
+[INFO ] 2022-01-04 09:55:52.044 [TestNG-tests-1] LogUtil - invalidSignIn Passed
 
-[INFO ] 2021-12-31 14:19:28.003 [TestNG-tests-1] LogUtil - viewCategoryProducts Started
+[INFO ] 2022-01-04 09:56:00.820 [TestNG-tests-1] LogUtil - pORegisterBeforeCheckout Started
+[INFO ] 2022-01-04 09:56:00.821 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:56:00.821 [TestNG-tests-1] LogUtil - Place order and register user before checking out test has begun (Test case 15).
+[INFO ] 2022-01-04 09:56:00.826 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:56:01.314 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
+[INFO ] 2022-01-04 09:56:01.360 [TestNG-tests-1] LogUtil - New User signup text is displayed
+[INFO ] 2022-01-04 09:56:01.967 [TestNG-tests-1] LogUtil - Sign up process navigated further
+[INFO ] 2022-01-04 09:56:01.998 [TestNG-tests-1] LogUtil - Place order and register user before checking out test has ended (Test case 15).
+[INFO ] 2022-01-04 09:56:01.999 [TestNG-tests-1] LogUtil - pORegisterBeforeCheckout Passed
 
-[INFO ] 2021-12-31 14:19:28.003 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:19:28.003 [TestNG-tests-1] LogUtil - View brand category products testcase has begun (Test case 19).
-[INFO ] 2021-12-31 14:19:28.010 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:19:32.271 [TestNG-tests-1] LogUtil - Clicked on products button
-[INFO ] 2021-12-31 14:19:32.302 [TestNG-tests-1] LogUtil - Brands are visible on left side bar
-[INFO ] 2021-12-31 14:19:36.124 [TestNG-tests-1] LogUtil - Clicked on Polo brand and navigated to Brand Page sucessfully
-[INFO ] 2021-12-31 14:19:36.161 [TestNG-tests-1] LogUtil - Polo Brand products text is displayed
-[INFO ] 2021-12-31 14:19:36.192 [TestNG-tests-1] LogUtil - Polo Brand products are displayed
-[INFO ] 2021-12-31 14:19:37.542 [TestNG-tests-1] LogUtil - Kookie Kid Brand products text is displayed
-[INFO ] 2021-12-31 14:19:37.564 [TestNG-tests-1] LogUtil - Kookie Kid Brand products are displayed
-[INFO ] 2021-12-31 14:19:37.564 [TestNG-tests-1] LogUtil - View brand category products testcase has ended (Test case 19).
-[INFO ] 2021-12-31 14:19:37.565 [TestNG-tests-1] LogUtil - viewCategoryProducts Passed
+[INFO ] 2022-01-04 09:56:10.391 [TestNG-tests-1] LogUtil - viewCategoryProducts Started
+[INFO ] 2022-01-04 09:56:10.391 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:56:10.392 [TestNG-tests-1] LogUtil - View category products testcase has begun (Test case 18).
+[INFO ] 2022-01-04 09:56:10.399 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:56:10.456 [TestNG-tests-1] LogUtil - In Left-side Category list is displayed
+[INFO ] 2022-01-04 09:56:10.546 [TestNG-tests-1] LogUtil - Clicked on women category sucessfully
+[INFO ] 2022-01-04 09:56:11.725 [TestNG-tests-1] LogUtil - Clicked on women category[Dress] sucessfully
+[INFO ] 2022-01-04 09:56:11.757 [TestNG-tests-1] LogUtil - Text Women Dress Products is displayed
+[INFO ] 2022-01-04 09:56:15.930 [TestNG-tests-1] LogUtil - Clicked on men category and Tshirt category selected sucessfully
+[INFO ] 2022-01-04 09:56:15.957 [TestNG-tests-1] LogUtil - Men - Tshirts Products is displayed
+[INFO ] 2022-01-04 09:56:15.958 [TestNG-tests-1] LogUtil - View category products testcase has ended (Test case 18).
+[INFO ] 2022-01-04 09:56:15.958 [TestNG-tests-1] LogUtil - viewCategoryProducts Passed
 
-[INFO ] 2021-12-31 14:20:04.303 [TestNG-tests-1] LogUtil - verifingSubscription Started
+[INFO ] 2022-01-04 09:56:24.908 [TestNG-tests-1] LogUtil - verifyTestCases Started
+[INFO ] 2022-01-04 09:56:24.908 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:56:24.909 [TestNG-tests-1] LogUtil - Verifing Testcases page test has begun (Test case 7).
+[INFO ] 2022-01-04 09:56:24.917 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:56:25.430 [TestNG-tests-1] LogUtil - User navigated to testcases page sucessfully
+[INFO ] 2022-01-04 09:56:25.430 [TestNG-tests-1] LogUtil - Verifing Testcases page test has ended (Test case 7).
+[INFO ] 2022-01-04 09:56:25.431 [TestNG-tests-1] LogUtil - verifyTestCases Passed
 
-[INFO ] 2021-12-31 14:20:04.303 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:20:04.303 [TestNG-tests-1] LogUtil - Verifing Subscription test has begun (Test case 10).
-[INFO ] 2021-12-31 14:20:04.309 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:20:04.497 [TestNG-tests-1] LogUtil - Scrolled down to footer and mail has been sent for subscription sucessfully
-[INFO ] 2021-12-31 14:20:04.541 [TestNG-tests-1] LogUtil - Message of mail subscription is displayed sucessfully
-[INFO ] 2021-12-31 14:20:04.542 [TestNG-tests-1] LogUtil - Verifing Subscription test has ended (Test case 10).
-[INFO ] 2021-12-31 14:20:04.543 [TestNG-tests-1] LogUtil - verifingSubscription Passed
+[INFO ] 2022-01-04 09:56:36.483 [TestNG-tests-1] LogUtil - contactUs Started
+[INFO ] 2022-01-04 09:56:36.484 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:56:36.484 [TestNG-tests-1] LogUtil - Conatact with owner test has begun (Test case 6).
+[INFO ] 2022-01-04 09:56:36.490 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:56:38.400 [TestNG-tests-1] LogUtil - Clicked on ContactUs sucessfully and Navigated
+[INFO ] 2022-01-04 09:56:38.967 [TestNG-tests-1] LogUtil - Contact form filled and submitted
+[INFO ] 2022-01-04 09:56:39.012 [TestNG-tests-1] LogUtil - Sucess text message is visible after submiting conatact form
+[INFO ] 2022-01-04 09:56:45.109 [TestNG-tests-1] LogUtil - User navigated to home page sucessfully
+[INFO ] 2022-01-04 09:56:45.109 [TestNG-tests-1] LogUtil - Conatact with owner test has ended (Test case 6).
+[INFO ] 2022-01-04 09:56:45.110 [TestNG-tests-1] LogUtil - contactUs Passed
 
-[INFO ] 2021-12-31 14:20:13.915 [TestNG-tests-1] LogUtil - registerUser Started
+[INFO ] 2022-01-04 09:56:54.045 [TestNG-tests-1] LogUtil - pORegisterWhileCheckout Started
+[INFO ] 2022-01-04 09:56:54.045 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:56:54.045 [TestNG-tests-1] LogUtil - Place order and register user while checking out test has begun (Test case 14).
+[INFO ] 2022-01-04 09:56:54.050 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:56:59.166 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
+[INFO ] 2022-01-04 09:56:59.197 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 09:57:02.430 [TestNG-tests-1] LogUtil - Products are added to cart
+[INFO ] 2022-01-04 09:57:02.538 [TestNG-tests-1] LogUtil - Clicked on check out to order products
+[INFO ] 2022-01-04 09:57:02.539 [TestNG-tests-1] LogUtil - Need to Sign-In and Register Modal displayed
+[INFO ] 2022-01-04 09:57:03.009 [TestNG-tests-1] LogUtil - Navigated to SignUp or Sign In page to register User
+[INFO ] 2022-01-04 09:57:06.766 [TestNG-tests-1] LogUtil - Place order and register user while checking out test has ended (Test case 14).
+[INFO ] 2022-01-04 09:57:06.767 [TestNG-tests-1] LogUtil - pORegisterWhileCheckout Passed
 
-[INFO ] 2021-12-31 14:20:13.915 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:20:13.916 [TestNG-tests-1] LogUtil - Remove products from cart testcase has begun (Test case 17).
-[INFO ] 2021-12-31 14:20:13.923 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:20:18.138 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
-[INFO ] 2021-12-31 14:20:18.172 [TestNG-tests-1] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 14:20:21.528 [TestNG-tests-1] LogUtil - Products are added to cart
-[INFO ] 2021-12-31 14:20:21.569 [TestNG-tests-1] LogUtil - Price, Quantity, and Total price of the every product is displayed
-[INFO ] 2021-12-31 14:20:21.651 [TestNG-tests-1] LogUtil - Product is deleted from the cart and verification completed
-[INFO ] 2021-12-31 14:20:21.651 [TestNG-tests-1] LogUtil - Remove products from cart testcase has ended (Test case 17).
-[INFO ] 2021-12-31 14:20:21.652 [TestNG-tests-1] LogUtil - registerUser Passed
+[INFO ] 2022-01-04 09:57:15.060 [TestNG-tests-1] LogUtil - verifingSubscription Started
+[INFO ] 2022-01-04 09:57:15.060 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:57:15.061 [TestNG-tests-1] LogUtil - Verifing Subscription test has begun (Test case 10).
+[INFO ] 2022-01-04 09:57:15.069 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:57:15.250 [TestNG-tests-1] LogUtil - Scrolled down to footer and mail has been sent for subscription sucessfully
+[INFO ] 2022-01-04 09:57:15.290 [TestNG-tests-1] LogUtil - Message of mail subscription is displayed sucessfully
+[INFO ] 2022-01-04 09:57:15.290 [TestNG-tests-1] LogUtil - Verifing Subscription test has ended (Test case 10).
+[INFO ] 2022-01-04 09:57:15.291 [TestNG-tests-1] LogUtil - verifingSubscription Passed
 
-[INFO ] 2021-12-31 14:20:30.519 [TestNG-tests-1] LogUtil - pOLoginBeforeCheckout Started
+[INFO ] 2022-01-04 09:57:22.975 [TestNG-tests-1] LogUtil - pOLoginBeforeCheckout Started
+[INFO ] 2022-01-04 09:57:22.975 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:57:22.975 [TestNG-tests-1] LogUtil - Place order and register user before checking out test has begun (Test case 16).
+[INFO ] 2022-01-04 09:57:22.982 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:57:22.982 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:57:23.563 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
+[INFO ] 2022-01-04 09:57:23.601 [TestNG-tests-1] LogUtil - Login to your account is displayed
+[INFO ] 2022-01-04 09:57:28.248 [TestNG-tests-1] LogUtil - Logged in as Username is displayed sucessfully
+[INFO ] 2022-01-04 09:57:32.943 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 09:57:35.650 [TestNG-tests-1] LogUtil - Products are added to cart, and Cart page is dipalyed
+[INFO ] 2022-01-04 09:57:37.344 [TestNG-tests-1] LogUtil - Products in Cart are moved to checkout
+[INFO ] 2022-01-04 09:57:37.402 [TestNG-tests-1] LogUtil - Billing address and delivery addresses verified
+[INFO ] 2022-01-04 09:57:37.514 [TestNG-tests-1] LogUtil - Product is reviewed and comment is entered
+[INFO ] 2022-01-04 09:57:37.995 [TestNG-tests-1] LogUtil - Navigated to Payment Page after clicking Place Order button
+[INFO ] 2022-01-04 09:57:40.343 [TestNG-tests-1] LogUtil - Order sucessfull message displayed after confirmation of payment
+[INFO ] 2022-01-04 09:57:40.343 [TestNG-tests-1] LogUtil - Navigated to DashBoard after sucessfully ordering product
+[INFO ] 2022-01-04 09:57:42.133 [TestNG-tests-1] LogUtil - Account is deleted
+[INFO ] 2022-01-04 09:57:43.168 [TestNG-tests-1] LogUtil - Place order and register user before checking out test has ended (Test case 16).
+[INFO ] 2022-01-04 09:57:43.170 [TestNG-tests-1] LogUtil - pOLoginBeforeCheckout Passed
 
-[INFO ] 2021-12-31 14:20:30.519 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:20:30.519 [TestNG-tests-1] LogUtil - Place order and register user before checking out test has begun (Test case 16).
-[INFO ] 2021-12-31 14:20:30.524 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:20:30.524 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:20:31.001 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
-[INFO ] 2021-12-31 14:20:31.050 [TestNG-tests-1] LogUtil - Login to your account is displayed
-[INFO ] 2021-12-31 14:20:36.093 [TestNG-tests-1] LogUtil - Logged in as Username is displayed sucessfully
-[INFO ] 2021-12-31 14:20:45.103 [TestNG-tests-1] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 14:20:50.559 [TestNG-tests-1] LogUtil - Products are added to cart, and Cart page is dipalyed
-[INFO ] 2021-12-31 14:20:52.824 [TestNG-tests-1] LogUtil - Products in Cart are moved to checkout
-[INFO ] 2021-12-31 14:20:52.902 [TestNG-tests-1] LogUtil - Billing address and delivery addresses verified
-[INFO ] 2021-12-31 14:20:53.021 [TestNG-tests-1] LogUtil - Product is reviewed and comment is entered
-[INFO ] 2021-12-31 14:20:53.526 [TestNG-tests-1] LogUtil - Navigated to Payment Page after clicking Place Order button
-[INFO ] 2021-12-31 14:20:55.938 [TestNG-tests-1] LogUtil - Order sucessfull message displayed after confirmation of payment
-[INFO ] 2021-12-31 14:20:55.938 [TestNG-tests-1] LogUtil - Navigated to DashBoard after sucessfully ordering product
-[INFO ] 2021-12-31 14:20:57.662 [TestNG-tests-1] LogUtil - Account is deleted
-[INFO ] 2021-12-31 14:20:58.689 [TestNG-tests-1] LogUtil - Place order and register user before checking out test has ended (Test case 16).
-[INFO ] 2021-12-31 14:20:58.690 [TestNG-tests-1] LogUtil - pOLoginBeforeCheckout Passed
+[INFO ] 2022-01-04 09:57:51.715 [TestNG-tests-1] LogUtil - downloadInvoiceAPurchase Started
+[INFO ] 2022-01-04 09:57:51.715 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:57:51.716 [TestNG-tests-1] LogUtil - Dwonloading Invoice after purchasing product test has begun (Test case 24).
+[INFO ] 2022-01-04 09:57:51.725 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:57:57.979 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
+[INFO ] 2022-01-04 09:57:58.014 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 09:58:04.299 [TestNG-tests-1] LogUtil - Products are added to cart
+[INFO ] 2022-01-04 09:58:04.405 [TestNG-tests-1] LogUtil - Clicked on check out to order products
+[INFO ] 2022-01-04 09:58:04.406 [TestNG-tests-1] LogUtil - Need to Sign-In and Register Modal displayed
+[INFO ] 2022-01-04 09:58:04.907 [TestNG-tests-1] LogUtil - Navigated to SignUp or Sign In page to register User
+[INFO ] 2022-01-04 09:58:08.595 [TestNG-tests-1] LogUtil - Dwonloading Invoice after purchasing product test has ended (Test case 24).
+[INFO ] 2022-01-04 09:58:08.596 [TestNG-tests-1] LogUtil - downloadInvoiceAPurchase Passed
 
-[INFO ] 2021-12-31 14:21:07.924 [TestNG-tests-1] LogUtil - downloadInvoiceAPurchase Started
+[INFO ] 2022-01-04 09:58:15.598 [TestNG-tests-1] LogUtil - verifyProductsDetails Started
+[INFO ] 2022-01-04 09:58:15.598 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:58:15.598 [TestNG-tests-1] LogUtil - Searching product test has begun (Test case 9).
+[INFO ] 2022-01-04 09:58:15.604 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:58:18.309 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
+[INFO ] 2022-01-04 09:58:18.338 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 09:58:19.419 [TestNG-tests-1] LogUtil - Product name is entered and clicked on the search button
+[INFO ] 2022-01-04 09:58:19.454 [TestNG-tests-1] LogUtil - Searched Product text is displayed sucessfully
+[INFO ] 2022-01-04 09:58:19.476 [TestNG-tests-1] LogUtil - All the products with searched product name are visible
+[INFO ] 2022-01-04 09:58:19.476 [TestNG-tests-1] LogUtil - Searching product test has ended (Test case 9).
+[INFO ] 2022-01-04 09:58:19.476 [TestNG-tests-1] LogUtil - verifyProductsDetails Passed
 
-[INFO ] 2021-12-31 14:21:07.924 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:21:07.925 [TestNG-tests-1] LogUtil - Dwonloading Invoice after purchasing product test has begun (Test case 24).
-[INFO ] 2021-12-31 14:21:07.929 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:21:12.894 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
-[INFO ] 2021-12-31 14:21:12.927 [TestNG-tests-1] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 14:21:16.320 [TestNG-tests-1] LogUtil - Products are added to cart
-[INFO ] 2021-12-31 14:21:16.429 [TestNG-tests-1] LogUtil - Clicked on check out to order products
-[INFO ] 2021-12-31 14:21:16.429 [TestNG-tests-1] LogUtil - Need to Sign-In and Register Modal displayed
-[INFO ] 2021-12-31 14:21:16.914 [TestNG-tests-1] LogUtil - Navigated to SignUp or Sign In page to register User
-[INFO ] 2021-12-31 14:21:20.718 [TestNG-tests-1] LogUtil - Dwonloading Invoice after purchasing product test has ended (Test case 24).
-[INFO ] 2021-12-31 14:21:20.719 [TestNG-tests-1] LogUtil - downloadInvoiceAPurchase Passed
+[INFO ] 2022-01-04 09:58:26.942 [TestNG-tests-1] LogUtil - addProductTocart Started
+[INFO ] 2022-01-04 09:58:26.942 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:58:26.942 [TestNG-tests-1] LogUtil - Adding product to cart from Recomended products test has begun (Test case 22).
+[INFO ] 2022-01-04 09:58:26.948 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:59:40.226 [TestNG-tests-1] LogUtil - Recomended product is added to cart sucessfully
+[INFO ] 2022-01-04 09:59:40.243 [TestNG-tests-1] LogUtil - Product is visble in the cart
+[INFO ] 2022-01-04 09:59:40.244 [TestNG-tests-1] LogUtil - Adding product to cart from Recomended products test has ended (Test case 22).
+[INFO ] 2022-01-04 09:59:40.245 [TestNG-tests-1] LogUtil - addProductTocart Passed
 
-[INFO ] 2021-12-31 14:21:30.748 [TestNG-tests-1] LogUtil - addProductTocart Started
+[INFO ] 2022-01-04 09:59:48.736 [TestNG-tests-1] LogUtil - verifyCartInSubscription Started
+[INFO ] 2022-01-04 09:59:48.736 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:59:48.736 [TestNG-tests-1] LogUtil - Verifing subscription in cart page with email test has begun (Test case 11).
+[INFO ] 2022-01-04 09:59:48.741 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:59:49.179 [TestNG-tests-1] LogUtil - Clicked on cart button of home page
+[INFO ] 2022-01-04 09:59:49.225 [TestNG-tests-1] LogUtil - Subscription text is displayed
+[INFO ] 2022-01-04 09:59:49.403 [TestNG-tests-1] LogUtil - Mail for the subscription in cart page sent sucessfully
+[INFO ] 2022-01-04 09:59:49.403 [TestNG-tests-1] LogUtil - Sucessfull message displayed after subscription
+[INFO ] 2022-01-04 09:59:49.403 [TestNG-tests-1] LogUtil - Verifing subscription in cart page with email test has ended (Test case 11).
+[INFO ] 2022-01-04 09:59:49.404 [TestNG-tests-1] LogUtil - verifyCartInSubscription Passed
 
-[INFO ] 2021-12-31 14:21:30.749 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:21:30.749 [TestNG-tests-1] LogUtil - Adding product to cart test has begun (Test case 12).
-[INFO ] 2021-12-31 14:21:30.754 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:21:35.978 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
-[INFO ] 2021-12-31 14:21:36.008 [TestNG-tests-1] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 14:21:42.400 [TestNG-tests-1] LogUtil - Products are added to cart, after clicking continue to shopping button
-[INFO ] 2021-12-31 14:21:42.421 [TestNG-tests-1] LogUtil - Both products are displayed in the cart section
-[INFO ] 2021-12-31 14:21:42.464 [TestNG-tests-1] LogUtil - Price, Quantity, and Total price of the every product is displayed
-[INFO ] 2021-12-31 14:21:42.464 [TestNG-tests-1] LogUtil - Adding product to cart test has ended (Test case 12).
-[INFO ] 2021-12-31 14:21:42.465 [TestNG-tests-1] LogUtil - addProductTocart Passed
+[INFO ] 2022-01-04 09:59:56.582 [TestNG-tests-1] LogUtil - signInAndLogOut Started
+[INFO ] 2022-01-04 09:59:56.582 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 09:59:56.582 [TestNG-tests-1] LogUtil - User signIn and signOut test has begun (Test case 4).
+[INFO ] 2022-01-04 09:59:56.587 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 09:59:56.996 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
+[INFO ] 2022-01-04 09:59:57.031 [TestNG-tests-1] LogUtil - Login to your account is displayed
+[INFO ] 2022-01-04 10:00:00.466 [TestNG-tests-1] LogUtil - Logged in as Username is displayed sucessfully
+[INFO ] 2022-01-04 10:00:01.167 [TestNG-tests-1] LogUtil - Navigated to Login Page sucessfully
+[INFO ] 2022-01-04 10:00:01.167 [TestNG-tests-1] LogUtil - User can Sign-In and SignOut sucessfully
+[INFO ] 2022-01-04 10:00:01.167 [TestNG-tests-1] LogUtil - User signIn and signOut test has ended (Test case 4).
+[INFO ] 2022-01-04 10:00:01.168 [TestNG-tests-1] LogUtil - signInAndLogOut Passed
 
-[INFO ] 2021-12-31 14:21:52.179 [TestNG-tests-1] LogUtil - verifyProductsDetails Started
+[INFO ] 2022-01-04 10:00:07.193 [TestNG-tests-1] LogUtil - productQuantityIncart Started
+[INFO ] 2022-01-04 10:00:07.193 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 10:00:07.194 [TestNG-tests-1] LogUtil - Verifying product quantities in cart test has begun (Test case 13).
+[INFO ] 2022-01-04 10:00:07.198 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 10:00:08.484 [TestNG-tests-1] LogUtil - Clicked on the view product button of the first product
+[INFO ] 2022-01-04 10:00:08.521 [TestNG-tests-1] LogUtil - Details of the first product are visible
+[INFO ] 2022-01-04 10:00:08.841 [TestNG-tests-1] LogUtil - The quantity value for the product is increased to 4
+[INFO ] 2022-01-04 10:00:10.263 [TestNG-tests-1] LogUtil - Verifying product quantities in cart test has ended (Test case 13).
+[INFO ] 2022-01-04 10:00:10.264 [TestNG-tests-1] LogUtil - productQuantityIncart Passed
 
-[INFO ] 2021-12-31 14:21:52.179 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:21:52.179 [TestNG-tests-1] LogUtil - Searching product test has begun (Test case 9).
-[INFO ] 2021-12-31 14:21:52.183 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:21:55.862 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
-[INFO ] 2021-12-31 14:21:55.898 [TestNG-tests-1] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 14:21:57.358 [TestNG-tests-1] LogUtil - Product name is entered and clicked on the search button
-[INFO ] 2021-12-31 14:21:57.385 [TestNG-tests-1] LogUtil - Searched Product text is displayed sucessfully
-[INFO ] 2021-12-31 14:21:57.408 [TestNG-tests-1] LogUtil - All the products with searched product name are visible
-[INFO ] 2021-12-31 14:21:57.408 [TestNG-tests-1] LogUtil - Searching product test has ended (Test case 9).
-[INFO ] 2021-12-31 14:21:57.409 [TestNG-tests-1] LogUtil - verifyProductsDetails Passed
+[INFO ] 2022-01-04 10:00:17.695 [TestNG-tests-1] LogUtil - pOLoginBeforeCheckout Started
+[INFO ] 2022-01-04 10:00:17.695 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 10:00:17.695 [TestNG-tests-1] LogUtil - Verifying whether the adress is matching with registered address test has begun (Test case 23).
+[INFO ] 2022-01-04 10:00:17.700 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 10:00:17.701 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 10:00:18.151 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
+[INFO ] 2022-01-04 10:00:18.192 [TestNG-tests-1] LogUtil - Login to your account is displayed
+[INFO ] 2022-01-04 10:00:21.220 [TestNG-tests-1] LogUtil - Logged in as Username is displayed sucessfully
+[INFO ] 2022-01-04 10:00:24.762 [TestNG-tests-1] LogUtil - List of the products is displayed
+[INFO ] 2022-01-04 10:00:27.142 [TestNG-tests-1] LogUtil - Products are added to cart, and Cart page is dipalyed
+[INFO ] 2022-01-04 10:00:28.455 [TestNG-tests-1] LogUtil - Products in Cart are moved to checkout
+[INFO ] 2022-01-04 10:00:28.544 [TestNG-tests-1] LogUtil - Billing address and delivery addresses verified
+[INFO ] 2022-01-04 10:00:28.649 [TestNG-tests-1] LogUtil - Billing address and delivery addresses verified and they are matching with adress given while registering account
+[INFO ] 2022-01-04 10:00:29.978 [TestNG-tests-1] LogUtil - Account is deleted
+[INFO ] 2022-01-04 10:00:29.978 [TestNG-tests-1] LogUtil - Verifying whether the adress is matching with registered address test has ended (Test case 23).
+[INFO ] 2022-01-04 10:00:29.980 [TestNG-tests-1] LogUtil - pOLoginBeforeCheckout Passed
 
-[INFO ] 2021-12-31 14:22:08.406 [TestNG-tests-1] LogUtil - addProductTocart Started
+[INFO ] 2022-01-04 10:00:37.003 [TestNG-tests-1] LogUtil - registerUser Started
+[INFO ] 2022-01-04 10:00:37.004 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 10:00:37.004 [TestNG-tests-1] LogUtil - Register user testcase has begun (Test case 1).
+[INFO ] 2022-01-04 10:00:37.009 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 10:00:37.439 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
+[INFO ] 2022-01-04 10:00:37.476 [TestNG-tests-1] LogUtil - New User signup text is displayed
+[INFO ] 2022-01-04 10:00:38.059 [TestNG-tests-1] LogUtil - Sign up process navigated further
+[INFO ] 2022-01-04 10:00:38.075 [TestNG-tests-1] LogUtil - Register user testcase has ended (Test case 1).
+[INFO ] 2022-01-04 10:00:38.076 [TestNG-tests-1] LogUtil - registerUser Passed
 
-[INFO ] 2021-12-31 14:22:08.406 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:22:08.406 [TestNG-tests-1] LogUtil - Adding product to cart from Recomended products test has begun (Test case 22).
-[INFO ] 2021-12-31 14:22:08.412 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:25:38.223 [TestNG-tests-1] LogUtil - Recomended product is added to cart sucessfully
-[INFO ] 2021-12-31 14:25:38.246 [TestNG-tests-1] LogUtil - Product is visble in the cart
-[INFO ] 2021-12-31 14:25:38.246 [TestNG-tests-1] LogUtil - Adding product to cart from Recomended products test has ended (Test case 22).
-[INFO ] 2021-12-31 14:25:38.248 [TestNG-tests-1] LogUtil - addProductTocart Passed
+[INFO ] 2022-01-04 10:00:45.240 [TestNG-tests-1] LogUtil - validSignIn Started
+[INFO ] 2022-01-04 10:00:45.240 [TestNG-tests-1] LogUtil - 
+[INFO ] 2022-01-04 10:00:45.240 [TestNG-tests-1] LogUtil - Validating login page with valid credentials test has begun (Test case 2).
+[INFO ] 2022-01-04 10:00:45.246 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
+[INFO ] 2022-01-04 10:00:45.700 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
+[INFO ] 2022-01-04 10:00:45.744 [TestNG-tests-1] LogUtil - Login to your account is displayed
+[INFO ] 2022-01-04 10:00:49.001 [TestNG-tests-1] LogUtil - Logged in as Username is displayed sucessfully
+[INFO ] 2022-01-04 10:00:49.485 [TestNG-tests-1] LogUtil - Account is deleted
+[INFO ] 2022-01-04 10:00:49.509 [TestNG-tests-1] LogUtil - Validating login page with valid credentials test has ended (Test case 2).
+[INFO ] 2022-01-04 10:00:49.511 [TestNG-tests-1] LogUtil - validSignIn Passed
 
-[INFO ] 2021-12-31 14:25:47.394 [TestNG-tests-1] LogUtil - verifyCartInSubscription Started
-
-[INFO ] 2021-12-31 14:25:47.394 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:25:47.394 [TestNG-tests-1] LogUtil - Verifing subscription in cart page with email test has begun (Test case 11).
-[INFO ] 2021-12-31 14:25:47.399 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:25:47.910 [TestNG-tests-1] LogUtil - Clicked on cart button of home page
-[INFO ] 2021-12-31 14:25:47.949 [TestNG-tests-1] LogUtil - Subscription text is displayed
-[INFO ] 2021-12-31 14:25:48.124 [TestNG-tests-1] LogUtil - Mail for the subscription in cart page sent sucessfully
-[INFO ] 2021-12-31 14:25:48.125 [TestNG-tests-1] LogUtil - Sucessfull message displayed after subscription
-[INFO ] 2021-12-31 14:25:48.125 [TestNG-tests-1] LogUtil - Verifing subscription in cart page with email test has ended (Test case 11).
-[INFO ] 2021-12-31 14:25:48.126 [TestNG-tests-1] LogUtil - verifyCartInSubscription Passed
-
-[INFO ] 2021-12-31 14:25:55.382 [TestNG-tests-1] LogUtil - signInAndLogOut Started
-
-[INFO ] 2021-12-31 14:25:55.382 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:25:55.383 [TestNG-tests-1] LogUtil - User signIn and signOut test has begun (Test case 4).
-[INFO ] 2021-12-31 14:25:55.387 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:25:55.819 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
-[INFO ] 2021-12-31 14:25:55.861 [TestNG-tests-1] LogUtil - Login to your account is displayed
-[INFO ] 2021-12-31 14:25:58.918 [TestNG-tests-1] LogUtil - Logged in as Username is displayed sucessfully
-[INFO ] 2021-12-31 14:25:59.631 [TestNG-tests-1] LogUtil - Navigated to Login Page sucessfully
-[INFO ] 2021-12-31 14:25:59.631 [TestNG-tests-1] LogUtil - User can Sign-In and SignOut sucessfully
-[INFO ] 2021-12-31 14:25:59.631 [TestNG-tests-1] LogUtil - User signIn and signOut test has ended (Test case 4).
-[INFO ] 2021-12-31 14:25:59.632 [TestNG-tests-1] LogUtil - signInAndLogOut Passed
-
-[INFO ] 2021-12-31 14:26:06.984 [TestNG-tests-1] LogUtil - productQuantityIncart Started
-
-[INFO ] 2021-12-31 14:26:06.984 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:26:06.985 [TestNG-tests-1] LogUtil - Verifying product quantities in cart test has begun (Test case 13).
-[INFO ] 2021-12-31 14:26:06.989 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:26:08.435 [TestNG-tests-1] LogUtil - Clicked on the view product button of the first product
-[INFO ] 2021-12-31 14:26:08.470 [TestNG-tests-1] LogUtil - Details of the first product are visible
-[INFO ] 2021-12-31 14:26:08.754 [TestNG-tests-1] LogUtil - The quantity value for the product is increased to 4
-[INFO ] 2021-12-31 14:26:10.141 [TestNG-tests-1] LogUtil - Verifying product quantities in cart test has ended (Test case 13).
-[INFO ] 2021-12-31 14:26:10.142 [TestNG-tests-1] LogUtil - productQuantityIncart Passed
-
-[INFO ] 2021-12-31 14:26:17.319 [TestNG-tests-1] LogUtil - verifyProductsDetails Started
-
-[INFO ] 2021-12-31 14:26:17.319 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:26:17.320 [TestNG-tests-1] LogUtil - Verifing product and it's page details test has begun (Test case 8).
-[INFO ] 2021-12-31 14:26:17.324 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:26:19.931 [TestNG-tests-1] LogUtil - Driver Navigated to All products page sucessfully
-[INFO ] 2021-12-31 14:26:19.961 [TestNG-tests-1] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 14:26:20.961 [TestNG-tests-1] LogUtil - Clicked on the view product button of the first product
-[INFO ] 2021-12-31 14:26:20.986 [TestNG-tests-1] LogUtil - Detail of first product is visible
-[INFO ] 2021-12-31 14:26:21.015 [TestNG-tests-1] LogUtil - Name of the product is visible
-[INFO ] 2021-12-31 14:26:21.040 [TestNG-tests-1] LogUtil - Category of the product is visible
-[INFO ] 2021-12-31 14:26:21.067 [TestNG-tests-1] LogUtil - Price of the product is visible
-[INFO ] 2021-12-31 14:26:21.093 [TestNG-tests-1] LogUtil - Avialability of the product is visible
-[INFO ] 2021-12-31 14:26:21.119 [TestNG-tests-1] LogUtil - Condition of the product is visible
-[INFO ] 2021-12-31 14:26:21.144 [TestNG-tests-1] LogUtil - Brand of the product is visible
-[INFO ] 2021-12-31 14:26:21.144 [TestNG-tests-1] LogUtil - Verifing product and it's page details test has ended (Test case 8).
-[INFO ] 2021-12-31 14:26:21.145 [TestNG-tests-1] LogUtil - verifyProductsDetails Passed
-
-[INFO ] 2021-12-31 14:26:29.841 [TestNG-tests-1] LogUtil - reviewProducts Started
-
-[INFO ] 2021-12-31 14:26:29.841 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:26:29.842 [TestNG-tests-1] LogUtil - Adding review to the product test has begun (Test case 21).
-[INFO ] 2021-12-31 14:26:29.847 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:26:34.471 [TestNG-tests-1] LogUtil - Clicked on products button and Navigated to Products page
-[INFO ] 2021-12-31 14:26:35.546 [TestNG-tests-1] LogUtil - Write your Review text heading is visible
-[INFO ] 2021-12-31 14:26:35.852 [TestNG-tests-1] LogUtil - Review submitted for the product
-[INFO ] 2021-12-31 14:26:35.887 [TestNG-tests-1] LogUtil - Sucess message displayed after submitting the review for the product
-[INFO ] 2021-12-31 14:26:35.887 [TestNG-tests-1] LogUtil - Adding review to the product test has begun (Test case 21).
-[INFO ] 2021-12-31 14:26:35.888 [TestNG-tests-1] LogUtil - reviewProducts Passed
-
-[INFO ] 2021-12-31 14:26:43.134 [TestNG-tests-1] LogUtil - existingEmailVeify Started
-
-[INFO ] 2021-12-31 14:26:43.135 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:26:43.135 [TestNG-tests-1] LogUtil - SignUp with existing email test has begun (Test case 5).
-[INFO ] 2021-12-31 14:26:43.139 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:26:43.596 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
-[INFO ] 2021-12-31 14:26:43.635 [TestNG-tests-1] LogUtil - New User signup text is displayed
-[INFO ] 2021-12-31 14:26:44.303 [TestNG-tests-1] LogUtil - Email already registered text is displayed
-[INFO ] 2021-12-31 14:26:44.304 [TestNG-tests-1] LogUtil - SignUp with existing email test has ended (Test case 5).
-[INFO ] 2021-12-31 14:26:44.304 [TestNG-tests-1] LogUtil - existingEmailVeify Passed
-
-[INFO ] 2021-12-31 14:26:51.790 [TestNG-tests-1] LogUtil - invalidSignIn Started
-
-[INFO ] 2021-12-31 14:26:51.790 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:26:51.791 [TestNG-tests-1] LogUtil - User with invalid email test has begun (Test case 3).
-[INFO ] 2021-12-31 14:26:51.797 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:26:52.253 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
-[INFO ] 2021-12-31 14:26:52.296 [TestNG-tests-1] LogUtil - Login to your account is displayed
-[INFO ] 2021-12-31 14:26:52.968 [TestNG-tests-1] LogUtil - Incorrect credentials is displayed sucessfully
-[INFO ] 2021-12-31 14:26:52.968 [TestNG-tests-1] LogUtil - User with invalid email test has ended (Test case 3).
-[INFO ] 2021-12-31 14:26:52.969 [TestNG-tests-1] LogUtil - invalidSignIn Passed
-
-[INFO ] 2021-12-31 14:26:59.895 [TestNG-tests-1] LogUtil - registerUser Started
-
-[INFO ] 2021-12-31 14:26:59.896 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:26:59.896 [TestNG-tests-1] LogUtil - Register user testcase has begun (Test case 1).
-[INFO ] 2021-12-31 14:26:59.901 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:27:00.363 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
-[INFO ] 2021-12-31 14:27:00.407 [TestNG-tests-1] LogUtil - New User signup text is displayed
-[INFO ] 2021-12-31 14:27:01.013 [TestNG-tests-1] LogUtil - Sign up process navigated further
-[INFO ] 2021-12-31 14:27:01.034 [TestNG-tests-1] LogUtil - Register user testcase has ended (Test case 1).
-[INFO ] 2021-12-31 14:27:01.035 [TestNG-tests-1] LogUtil - registerUser Passed
-
-[INFO ] 2021-12-31 14:27:07.886 [TestNG-tests-1] LogUtil - pORegisterBeforeCheckout Started
-
-[INFO ] 2021-12-31 14:27:07.886 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:27:07.886 [TestNG-tests-1] LogUtil - Place order and register user before checking out test has begun (Test case 15).
-[INFO ] 2021-12-31 14:27:07.890 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:27:08.348 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
-[INFO ] 2021-12-31 14:27:08.394 [TestNG-tests-1] LogUtil - New User signup text is displayed
-[INFO ] 2021-12-31 14:27:08.985 [TestNG-tests-1] LogUtil - Sign up process navigated further
-[INFO ] 2021-12-31 14:27:09.001 [TestNG-tests-1] LogUtil - Place order and register user before checking out test has ended (Test case 15).
-[INFO ] 2021-12-31 14:27:09.001 [TestNG-tests-1] LogUtil - pORegisterBeforeCheckout Passed
-
-[INFO ] 2021-12-31 14:27:19.407 [TestNG-tests-1] LogUtil - validSignIn Started
-
-[INFO ] 2021-12-31 14:27:19.408 [TestNG-tests-1] LogUtil - 
-[INFO ] 2021-12-31 14:27:19.408 [TestNG-tests-1] LogUtil - Validating login page with valid credentials test has begun (Test case 2).
-[INFO ] 2021-12-31 14:27:19.413 [TestNG-tests-1] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 14:27:19.850 [TestNG-tests-1] LogUtil - Clicked on Sign up Or Login button sucessfully
-[INFO ] 2021-12-31 14:27:19.893 [TestNG-tests-1] LogUtil - Login to your account is displayed
-[INFO ] 2021-12-31 14:27:26.036 [TestNG-tests-1] LogUtil - Logged in as Username is displayed sucessfully
-[INFO ] 2021-12-31 14:27:27.318 [TestNG-tests-1] LogUtil - Account is deleted
-[INFO ] 2021-12-31 14:27:27.340 [TestNG-tests-1] LogUtil - Validating login page with valid credentials test has ended (Test case 2).
-[INFO ] 2021-12-31 14:27:27.341 [TestNG-tests-1] LogUtil - validSignIn Passed
-
-[INFO ] 2021-12-31 14:27:27.800 [TestNG-tests-1] LogUtil - =========== onFinish :-TestNg-Automation Exercises===============
-[INFO ] 2021-12-31 17:21:16.655 [main] LogUtil - ************************** Test Execution Started ************************************
-[INFO ] 2021-12-31 17:21:29.431 [main] LogUtil - Verifying whether the adress is matching with registered address test has begun (Test case 23).
-[INFO ] 2021-12-31 17:21:29.492 [main] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 17:21:29.493 [main] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 17:21:29.985 [main] LogUtil - Clicked on Sign up Or Login button sucessfully
-[INFO ] 2021-12-31 17:21:30.072 [main] LogUtil - Login to your account is displayed
-[INFO ] 2021-12-31 17:21:33.570 [main] LogUtil - Logged in as Username is displayed sucessfully
-[INFO ] 2021-12-31 17:21:37.871 [main] LogUtil - List of the products is displayed
-[INFO ] 2021-12-31 17:21:40.416 [main] LogUtil - Products are added to cart, and Cart page is dipalyed
-[INFO ] 2021-12-31 17:21:41.727 [main] LogUtil - Products in Cart are moved to checkout
-[INFO ] 2021-12-31 17:21:41.808 [main] LogUtil - Billing address and delivery addresses verified
-[INFO ] 2021-12-31 17:21:41.921 [main] LogUtil - Billing address and delivery addresses verified and they are matching with adress given while registering account
-[INFO ] 2021-12-31 17:21:43.327 [main] LogUtil - Account is deleted
-[INFO ] 2021-12-31 17:21:43.328 [main] LogUtil - Verifying whether the adress is matching with registered address test has ended (Test case 23).
-[INFO ] 2021-12-31 17:46:31.619 [main] LogUtil - ************************** Test Execution Started ************************************
-[INFO ] 2021-12-31 17:48:11.359 [main] LogUtil - ************************** Test Execution Started ************************************
-[INFO ] 2021-12-31 17:48:20.447 [main] LogUtil - Clicking up button arrow test has begun (Test case 25).
-[INFO ] 2021-12-31 17:48:20.559 [main] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 17:48:20.670 [main] LogUtil - Subscription text is visible
-[INFO ] 2021-12-31 17:48:20.739 [main] LogUtil - Clicked on up arrow and page moved up sucessfully
-[INFO ] 2021-12-31 17:48:20.792 [main] LogUtil - Full-Fledged practice website for Automation Engineers is displayed
-[INFO ] 2021-12-31 17:48:20.792 [main] LogUtil - Clicking up button arrow test has ended (Test case 25).
-[INFO ] 2021-12-31 17:48:58.319 [main] LogUtil - ************************** Test Execution Started ************************************
-[INFO ] 2021-12-31 17:49:08.351 [main] LogUtil - Without Clicking up button arrow page scroll up test has begun (Test case 26).
-[INFO ] 2021-12-31 17:49:08.453 [main] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 17:49:08.587 [main] LogUtil - Subscription text is visible
-[INFO ] 2021-12-31 17:49:08.615 [main] LogUtil - Without Click on up arrow button page moved up sucessfully
-[INFO ] 2021-12-31 17:49:08.675 [main] LogUtil - Full-Fledged practice website for Automation Engineers is displayed
-[INFO ] 2021-12-31 17:49:08.675 [main] LogUtil - Without Clicking up button arrow page scroll up test has ended (Test case 26).
-[INFO ] 2021-12-31 17:49:41.888 [main] LogUtil - ************************** Test Execution Started ************************************
-[INFO ] 2021-12-31 17:49:51.353 [main] LogUtil - Clicking up button arrow test has begun (Test case 25).
-[INFO ] 2021-12-31 17:49:51.458 [main] LogUtil - Navigated to Homepage sucessfully
-[INFO ] 2021-12-31 17:49:51.594 [main] LogUtil - Subscription text is visible
-[INFO ] 2021-12-31 17:49:51.662 [main] LogUtil - Clicked on up arrow and page moved up sucessfully
-[INFO ] 2021-12-31 17:49:51.793 [main] LogUtil - Full-Fledged practice website for Automation Engineers is displayed
-[INFO ] 2021-12-31 17:49:51.794 [main] LogUtil - Clicking up button arrow test has ended (Test case 25).
+[INFO ] 2022-01-04 10:00:49.945 [TestNG-tests-1] LogUtil - =========== onFinish :-Automation-Exercise-Testng===============

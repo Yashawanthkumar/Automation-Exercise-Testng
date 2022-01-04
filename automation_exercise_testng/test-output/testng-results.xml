@@ -1,25 +1,379 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="25" total="51" passed="26" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-31T17:49:41 IST" name="Default suite" finished-at="2021-12-31T17:49:51 IST" duration-ms="9916">
+  <suite started-at="2022-01-04T09:52:58 IST" name="Automation-Exercise" finished-at="2022-01-04T10:00:49 IST" duration-ms="471291">
     <groups>
     </groups>
-    <test started-at="2021-12-31T17:49:41 IST" name="Default test" finished-at="2021-12-31T17:49:51 IST" duration-ms="9916">
-      <class name="com.ae.tests.ScrollWithUpButtonTest">
-        <test-method is-config="true" signature="globalSetup()[pri:0, instance:com.ae.tests.ScrollWithUpButtonTest@1151e434]" started-at="2021-12-31T17:49:40 IST" name="globalSetup" finished-at="2021-12-31T17:49:41 IST" duration-ms="911" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- globalSetup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ScrollWithUpButtonTest@1151e434]" started-at="2021-12-31T17:49:41 IST" name="setup" finished-at="2021-12-31T17:49:51 IST" duration-ms="9378" status="PASS">
+    <test started-at="2022-01-04T09:52:58 IST" name="Automation-Exercise-Testng" finished-at="2022-01-04T10:00:49 IST" duration-ms="471291">
+      <class name="com.ae.tests.ViewCartBrandProductsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ViewCartBrandProductsTest@1921ad94]" started-at="2022-01-04T09:53:53 IST" name="setup" finished-at="2022-01-04T09:54:01 IST" duration-ms="8214" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="scrollWithUpButtonTest()[pri:0, instance:com.ae.tests.ScrollWithUpButtonTest@1151e434]" started-at="2021-12-31T17:49:51 IST" name="scrollWithUpButtonTest" finished-at="2021-12-31T17:49:51 IST" duration-ms="455" status="PASS">
+        <test-method signature="viewCategoryProducts()[pri:0, instance:com.ae.tests.ViewCartBrandProductsTest@1921ad94]" started-at="2022-01-04T09:54:01 IST" name="viewCategoryProducts" finished-at="2022-01-04T09:54:11 IST" duration-ms="10162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewCategoryProducts -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ViewCartBrandProductsTest@1921ad94]" started-at="2022-01-04T09:54:11 IST" name="wrapUp" finished-at="2022-01-04T09:54:11 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.ViewCartBrandProductsTest -->
+      <class name="com.ae.tests.ProductsAndDetailsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ProductsAndDetailsTest@7f132176]" started-at="2022-01-04T09:54:54 IST" name="setup" finished-at="2022-01-04T09:55:03 IST" duration-ms="8403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductsDetails()[pri:0, instance:com.ae.tests.ProductsAndDetailsTest@7f132176]" started-at="2022-01-04T09:55:03 IST" name="verifyProductsDetails" finished-at="2022-01-04T09:55:08 IST" duration-ms="5745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsDetails -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ProductsAndDetailsTest@7f132176]" started-at="2022-01-04T09:55:08 IST" name="wrapUp" finished-at="2022-01-04T09:55:09 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.ProductsAndDetailsTest -->
+      <class name="com.ae.tests.LogOutUserTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.LogOutUserTest@48e92c5c]" started-at="2022-01-04T09:59:49 IST" name="setup" finished-at="2022-01-04T09:59:56 IST" duration-ms="6864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInAndLogOut()[pri:0, instance:com.ae.tests.LogOutUserTest@48e92c5c]" started-at="2022-01-04T09:59:56 IST" name="signInAndLogOut" finished-at="2022-01-04T10:00:01 IST" duration-ms="4586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInAndLogOut -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.LogOutUserTest@48e92c5c]" started-at="2022-01-04T10:00:01 IST" name="wrapUp" finished-at="2022-01-04T10:00:01 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.LogOutUserTest -->
+      <class name="com.ae.tests.HomePageSubscriptionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.HomePageSubscriptionTest@33308786]" started-at="2022-01-04T09:57:07 IST" name="setup" finished-at="2022-01-04T09:57:15 IST" duration-ms="7916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifingSubscription()[pri:0, instance:com.ae.tests.HomePageSubscriptionTest@33308786]" started-at="2022-01-04T09:57:15 IST" name="verifingSubscription" finished-at="2022-01-04T09:57:15 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifingSubscription -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.HomePageSubscriptionTest@33308786]" started-at="2022-01-04T09:57:15 IST" name="wrapUp" finished-at="2022-01-04T09:57:15 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.HomePageSubscriptionTest -->
+      <class name="com.ae.tests.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.RegisterTest@386f0da3]" started-at="2022-01-04T10:00:30 IST" name="setup" finished-at="2022-01-04T10:00:37 IST" duration-ms="6553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerUser()[pri:0, instance:com.ae.tests.RegisterTest@386f0da3]" started-at="2022-01-04T10:00:37 IST" name="registerUser" finished-at="2022-01-04T10:00:38 IST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.RegisterTest@386f0da3]" started-at="2022-01-04T10:00:38 IST" name="wrapUp" finished-at="2022-01-04T10:00:38 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.RegisterTest -->
+      <class name="com.ae.tests.ScrollWithUpButtonTest">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:com.ae.tests.ScrollWithUpButtonTest@6eb2384f]" started-at="2022-01-04T09:52:57 IST" name="globalSetup" finished-at="2022-01-04T09:52:58 IST" duration-ms="899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ScrollWithUpButtonTest@6eb2384f]" started-at="2022-01-04T09:52:58 IST" name="setup" finished-at="2022-01-04T09:53:12 IST" duration-ms="14252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scrollWithUpButtonTest()[pri:0, instance:com.ae.tests.ScrollWithUpButtonTest@6eb2384f]" started-at="2022-01-04T09:53:12 IST" name="scrollWithUpButtonTest" finished-at="2022-01-04T09:53:13 IST" duration-ms="288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scrollWithUpButtonTest -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ScrollWithUpButtonTest@6eb2384f]" started-at="2022-01-04T09:53:13 IST" name="wrapUp" finished-at="2022-01-04T09:53:17 IST" duration-ms="4375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
       </class> <!-- com.ae.tests.ScrollWithUpButtonTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="com.ae.tests.ViewCategoryProductsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ViewCategoryProductsTest@68b32e3e]" started-at="2022-01-04T09:56:02 IST" name="setup" finished-at="2022-01-04T09:56:10 IST" duration-ms="7961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="viewCategoryProducts()[pri:0, instance:com.ae.tests.ViewCategoryProductsTest@68b32e3e]" started-at="2022-01-04T09:56:10 IST" name="viewCategoryProducts" finished-at="2022-01-04T09:56:15 IST" duration-ms="5568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewCategoryProducts -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ViewCategoryProductsTest@68b32e3e]" started-at="2022-01-04T09:56:15 IST" name="wrapUp" finished-at="2022-01-04T09:56:16 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.ViewCategoryProductsTest -->
+      <class name="com.ae.tests.ContactUsFormTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ContactUsFormTest@41709512]" started-at="2022-01-04T09:56:25 IST" name="setup" finished-at="2022-01-04T09:56:36 IST" duration-ms="10766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="contactUs()[pri:0, instance:com.ae.tests.ContactUsFormTest@41709512]" started-at="2022-01-04T09:56:36 IST" name="contactUs" finished-at="2022-01-04T09:56:45 IST" duration-ms="8626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ContactUsFormTest@41709512]" started-at="2022-01-04T09:56:45 IST" name="wrapUp" finished-at="2022-01-04T09:56:45 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.ContactUsFormTest -->
+      <class name="com.ae.tests.SearchProductVerifyInCartAloginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.SearchProductVerifyInCartAloginTest@10cf09e8]" started-at="2022-01-04T09:53:27 IST" name="setup" finished-at="2022-01-04T09:53:35 IST" duration-ms="7982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchAndVefiryProductInCart()[pri:0, instance:com.ae.tests.SearchProductVerifyInCartAloginTest@10cf09e8]" started-at="2022-01-04T09:53:35 IST" name="searchAndVefiryProductInCart" finished-at="2022-01-04T09:53:52 IST" duration-ms="17262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndVefiryProductInCart -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.SearchProductVerifyInCartAloginTest@10cf09e8]" started-at="2022-01-04T09:53:52 IST" name="wrapUp" finished-at="2022-01-04T09:53:53 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.SearchProductVerifyInCartAloginTest -->
+      <class name="com.ae.tests.ScrollWithoutUpButtonTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ScrollWithoutUpButtonTest@40db2a24]" started-at="2022-01-04T09:53:17 IST" name="setup" finished-at="2022-01-04T09:53:26 IST" duration-ms="9340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scrollWithOutUpButtonTest()[pri:0, instance:com.ae.tests.ScrollWithoutUpButtonTest@40db2a24]" started-at="2022-01-04T09:53:26 IST" name="scrollWithOutUpButtonTest" finished-at="2022-01-04T09:53:27 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollWithOutUpButtonTest -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ScrollWithoutUpButtonTest@40db2a24]" started-at="2022-01-04T09:53:27 IST" name="wrapUp" finished-at="2022-01-04T09:53:27 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.ScrollWithoutUpButtonTest -->
+      <class name="com.ae.tests.RemoveProductFromCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.RemoveProductFromCartTest@ee86bcb]" started-at="2022-01-04T09:54:11 IST" name="setup" finished-at="2022-01-04T09:54:20 IST" duration-ms="8303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerUser()[pri:0, instance:com.ae.tests.RemoveProductFromCartTest@ee86bcb]" started-at="2022-01-04T09:54:20 IST" name="registerUser" finished-at="2022-01-04T09:54:27 IST" duration-ms="7919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.RemoveProductFromCartTest@ee86bcb]" started-at="2022-01-04T09:54:27 IST" name="wrapUp" finished-at="2022-01-04T09:54:28 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.RemoveProductFromCartTest -->
+      <class name="com.ae.tests.VerifyTestCasesTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.VerifyTestCasesTest@bcef303]" started-at="2022-01-04T09:56:16 IST" name="setup" finished-at="2022-01-04T09:56:24 IST" duration-ms="8635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTestCases()[pri:0, instance:com.ae.tests.VerifyTestCasesTest@bcef303]" started-at="2022-01-04T09:56:24 IST" name="verifyTestCases" finished-at="2022-01-04T09:56:25 IST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestCases -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.VerifyTestCasesTest@bcef303]" started-at="2022-01-04T09:56:25 IST" name="wrapUp" finished-at="2022-01-04T09:56:25 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.VerifyTestCasesTest -->
+      <class name="com.ae.tests.VerifyProductQuantityInCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.VerifyProductQuantityInCartTest@2e1ef60]" started-at="2022-01-04T10:00:01 IST" name="setup" finished-at="2022-01-04T10:00:07 IST" duration-ms="5667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="productQuantityIncart()[pri:0, instance:com.ae.tests.VerifyProductQuantityInCartTest@2e1ef60]" started-at="2022-01-04T10:00:07 IST" name="productQuantityIncart" finished-at="2022-01-04T10:00:10 IST" duration-ms="3071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productQuantityIncart -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.VerifyProductQuantityInCartTest@2e1ef60]" started-at="2022-01-04T10:00:10 IST" name="wrapUp" finished-at="2022-01-04T10:00:10 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.VerifyProductQuantityInCartTest -->
+      <class name="com.ae.tests.PORegisterWCheckOutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.PORegisterWCheckOutTest@42039326]" started-at="2022-01-04T09:56:45 IST" name="setup" finished-at="2022-01-04T09:56:54 IST" duration-ms="8582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pORegisterWhileCheckout()[pri:0, instance:com.ae.tests.PORegisterWCheckOutTest@42039326]" started-at="2022-01-04T09:56:54 IST" name="pORegisterWhileCheckout" finished-at="2022-01-04T09:57:06 IST" duration-ms="12722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pORegisterWhileCheckout -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.PORegisterWCheckOutTest@42039326]" started-at="2022-01-04T09:57:06 IST" name="wrapUp" finished-at="2022-01-04T09:57:07 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.PORegisterWCheckOutTest -->
+      <class name="com.ae.tests.DownloadInvoiceTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.DownloadInvoiceTest@a87f8ec]" started-at="2022-01-04T09:57:43 IST" name="setup" finished-at="2022-01-04T09:57:51 IST" duration-ms="8182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="downloadInvoiceAPurchase()[pri:0, instance:com.ae.tests.DownloadInvoiceTest@a87f8ec]" started-at="2022-01-04T09:57:51 IST" name="downloadInvoiceAPurchase" finished-at="2022-01-04T09:58:08 IST" duration-ms="16881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadInvoiceAPurchase -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.DownloadInvoiceTest@a87f8ec]" started-at="2022-01-04T09:58:08 IST" name="wrapUp" finished-at="2022-01-04T09:58:09 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.DownloadInvoiceTest -->
+      <class name="com.ae.tests.CartPageSubscriptionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.CartPageSubscriptionTest@7d1cfb8b]" started-at="2022-01-04T09:59:40 IST" name="setup" finished-at="2022-01-04T09:59:48 IST" duration-ms="7855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartInSubscription()[pri:0, instance:com.ae.tests.CartPageSubscriptionTest@7d1cfb8b]" started-at="2022-01-04T09:59:48 IST" name="verifyCartInSubscription" finished-at="2022-01-04T09:59:49 IST" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartInSubscription -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.CartPageSubscriptionTest@7d1cfb8b]" started-at="2022-01-04T09:59:49 IST" name="wrapUp" finished-at="2022-01-04T09:59:49 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.CartPageSubscriptionTest -->
+      <class name="com.ae.tests.VerifyAdressInCheckOutPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.VerifyAdressInCheckOutPageTest@22356acd]" started-at="2022-01-04T10:00:10 IST" name="setup" finished-at="2022-01-04T10:00:17 IST" duration-ms="7035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pOLoginBeforeCheckout()[pri:0, instance:com.ae.tests.VerifyAdressInCheckOutPageTest@22356acd]" started-at="2022-01-04T10:00:17 IST" name="pOLoginBeforeCheckout" finished-at="2022-01-04T10:00:29 IST" duration-ms="12285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pOLoginBeforeCheckout -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.VerifyAdressInCheckOutPageTest@22356acd]" started-at="2022-01-04T10:00:29 IST" name="wrapUp" finished-at="2022-01-04T10:00:30 IST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.VerifyAdressInCheckOutPageTest -->
+      <class name="com.ae.tests.ExistEmailRegistrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ExistEmailRegistrationTest@8ad6665]" started-at="2022-01-04T09:55:23 IST" name="setup" finished-at="2022-01-04T09:55:33 IST" duration-ms="10031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="existingEmailVeify()[pri:0, instance:com.ae.tests.ExistEmailRegistrationTest@8ad6665]" started-at="2022-01-04T09:55:33 IST" name="existingEmailVeify" finished-at="2022-01-04T09:55:34 IST" duration-ms="1204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- existingEmailVeify -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ExistEmailRegistrationTest@8ad6665]" started-at="2022-01-04T09:55:34 IST" name="wrapUp" finished-at="2022-01-04T09:55:35 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.ExistEmailRegistrationTest -->
+      <class name="com.ae.tests.AddToCartFRecomendsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.AddToCartFRecomendsTest@63787180]" started-at="2022-01-04T09:58:19 IST" name="setup" finished-at="2022-01-04T09:58:26 IST" duration-ms="7097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addProductTocart()[pri:0, instance:com.ae.tests.AddToCartFRecomendsTest@63787180]" started-at="2022-01-04T09:58:26 IST" name="addProductTocart" finished-at="2022-01-04T09:59:40 IST" duration-ms="73304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductTocart -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.AddToCartFRecomendsTest@63787180]" started-at="2022-01-04T09:59:40 IST" name="wrapUp" finished-at="2022-01-04T09:59:40 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.AddToCartFRecomendsTest -->
+      <class name="com.ae.tests.ValidLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ValidLoginTest@39655d3e]" started-at="2022-01-04T10:00:38 IST" name="setup" finished-at="2022-01-04T10:00:45 IST" duration-ms="6845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validSignIn()[pri:0, instance:com.ae.tests.ValidLoginTest@39655d3e]" started-at="2022-01-04T10:00:45 IST" name="validSignIn" finished-at="2022-01-04T10:00:49 IST" duration-ms="4271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validSignIn -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ValidLoginTest@39655d3e]" started-at="2022-01-04T10:00:49 IST" name="wrapUp" finished-at="2022-01-04T10:00:49 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.ValidLoginTest -->
+      <class name="com.ae.tests.PORegisterBCheckOutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.PORegisterBCheckOutTest@19835e64]" started-at="2022-01-04T09:55:52 IST" name="setup" finished-at="2022-01-04T09:56:00 IST" duration-ms="8404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pORegisterBeforeCheckout()[pri:0, instance:com.ae.tests.PORegisterBCheckOutTest@19835e64]" started-at="2022-01-04T09:56:00 IST" name="pORegisterBeforeCheckout" finished-at="2022-01-04T09:56:01 IST" duration-ms="1178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pORegisterBeforeCheckout -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.PORegisterBCheckOutTest@19835e64]" started-at="2022-01-04T09:56:01 IST" name="wrapUp" finished-at="2022-01-04T09:56:02 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.PORegisterBCheckOutTest -->
+      <class name="com.ae.tests.InvalidLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.InvalidLoginTest@30af5b6b]" started-at="2022-01-04T09:55:35 IST" name="setup" finished-at="2022-01-04T09:55:49 IST" duration-ms="14222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidSignIn()[pri:0, instance:com.ae.tests.InvalidLoginTest@30af5b6b]" started-at="2022-01-04T09:55:49 IST" name="invalidSignIn" finished-at="2022-01-04T09:55:52 IST" duration-ms="2786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSignIn -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.InvalidLoginTest@30af5b6b]" started-at="2022-01-04T09:55:52 IST" name="wrapUp" finished-at="2022-01-04T09:55:52 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.InvalidLoginTest -->
+      <class name="com.ae.tests.ReviewProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.ReviewProductTest@6ed3f258]" started-at="2022-01-04T09:55:09 IST" name="setup" finished-at="2022-01-04T09:55:17 IST" duration-ms="8245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="reviewProducts()[pri:0, instance:com.ae.tests.ReviewProductTest@6ed3f258]" started-at="2022-01-04T09:55:17 IST" name="reviewProducts" finished-at="2022-01-04T09:55:23 IST" duration-ms="5619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reviewProducts -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.ReviewProductTest@6ed3f258]" started-at="2022-01-04T09:55:23 IST" name="wrapUp" finished-at="2022-01-04T09:55:23 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.ReviewProductTest -->
+      <class name="com.ae.tests.POLoginBCheckOutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.POLoginBCheckOutTest@4f9a2c08]" started-at="2022-01-04T09:57:15 IST" name="setup" finished-at="2022-01-04T09:57:22 IST" duration-ms="7361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pOLoginBeforeCheckout()[pri:0, instance:com.ae.tests.POLoginBCheckOutTest@4f9a2c08]" started-at="2022-01-04T09:57:22 IST" name="pOLoginBeforeCheckout" finished-at="2022-01-04T09:57:43 IST" duration-ms="20195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pOLoginBeforeCheckout -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.POLoginBCheckOutTest@4f9a2c08]" started-at="2022-01-04T09:57:43 IST" name="wrapUp" finished-at="2022-01-04T09:57:43 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.POLoginBCheckOutTest -->
+      <class name="com.ae.tests.AddProductsToCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.AddProductsToCartTest@177bea38]" started-at="2022-01-04T09:54:28 IST" name="setup" finished-at="2022-01-04T09:54:37 IST" duration-ms="9342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addProductTocart()[pri:0, instance:com.ae.tests.AddProductsToCartTest@177bea38]" started-at="2022-01-04T09:54:37 IST" name="addProductTocart" finished-at="2022-01-04T09:54:54 IST" duration-ms="16507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductTocart -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.AddProductsToCartTest@177bea38]" started-at="2022-01-04T09:54:54 IST" name="wrapUp" finished-at="2022-01-04T09:54:54 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.AddProductsToCartTest -->
+      <class name="com.ae.tests.SearchProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ae.tests.SearchProductTest@5443d039]" started-at="2022-01-04T09:58:09 IST" name="setup" finished-at="2022-01-04T09:58:15 IST" duration-ms="6588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductsDetails()[pri:0, instance:com.ae.tests.SearchProductTest@5443d039]" started-at="2022-01-04T09:58:15 IST" name="verifyProductsDetails" finished-at="2022-01-04T09:58:19 IST" duration-ms="3879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsDetails -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.ae.tests.SearchProductTest@5443d039]" started-at="2022-01-04T09:58:19 IST" name="wrapUp" finished-at="2022-01-04T09:58:19 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.ae.tests.SearchProductTest -->
+    </test> <!-- Automation-Exercise-Testng -->
+  </suite> <!-- Automation-Exercise -->
 </testng-results>

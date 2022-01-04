@@ -1,35 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite" parallel="tests">
+<suite name="Automation-Exercise" parallel="tests">
 <listeners>
 <listener class-name="com.ae.qa.listeners.ReportListeners"/>
 <listener class-name="com.ae.qa.listeners.LogListeners"/>
 </listeners>
-  <test name="TestNg-Automation Exercises">
+  <test name="Automation-Exercise-Testng">
     <classes>
+      <class name="com.ae.tests.ScrollWithUpButtonTest"/>
+      <class name="com.ae.tests.ScrollWithoutUpButtonTest"/>
+      <class name="com.ae.tests.SearchProductVerifyInCartAloginTest"/>
+      <class name="com.ae.tests.ViewCartBrandProductsTest"/>
+      <class name="com.ae.tests.RemoveProductFromCartTest"/>
+      <class name="com.ae.tests.AddProductsToCartTest"/>
+      <class name="com.ae.tests.ProductsAndDetailsTest"/>
+      <class name="com.ae.tests.ReviewProductTest"/>
+      <class name="com.ae.tests.ExistEmailRegistrationTest"/>
+      <class name="com.ae.tests.InvalidLoginTest"/>
+      <class name="com.ae.tests.PORegisterBCheckOutTest"/>
       <class name="com.ae.tests.ViewCategoryProductsTest"/>
       <class name="com.ae.tests.VerifyTestCasesTest"/>
       <class name="com.ae.tests.ContactUsFormTest"/>
-      <class name="com.ae.tests.SearchProductVerifyInCartAloginTest"/>
       <class name="com.ae.tests.PORegisterWCheckOutTest"/>
-      <class name="com.ae.tests.ViewCartBrandProductsTest"/>
       <class name="com.ae.tests.HomePageSubscriptionTest"/>
-      <class name="com.ae.tests.RemoveProductFromCartTest"/>
       <class name="com.ae.tests.POLoginBCheckOutTest"/>
       <class name="com.ae.tests.DownloadInvoiceTest"/>
-      <class name="com.ae.tests.AddProductsToCartTest"/>
       <class name="com.ae.tests.SearchProductTest"/>
       <class name="com.ae.tests.AddToCartFRecomendsTest"/>
       <class name="com.ae.tests.CartPageSubscriptionTest"/>
       <class name="com.ae.tests.LogOutUserTest"/>
       <class name="com.ae.tests.VerifyProductQuantityInCartTest"/>
-      <class name="com.ae.tests.ProductsAndDetailsTest"/>
-      <class name="com.ae.tests.ReviewProductTest"/>
-      <class name="com.ae.tests.ExistEmailRegistrationTest"/>
-      <class name="com.ae.tests.InvalidLoginTest"/>
+      <class name="com.ae.tests.VerifyAdressInCheckOutPageTest"/>
       <class name="com.ae.tests.RegisterTest"/>
-      <class name="com.ae.tests.PORegisterBCheckOutTest"/>
       <class name="com.ae.tests.ValidLoginTest"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> <!-- Automation-Exercise-Testng -->
+</suite> <!-- Automation-Exercise -->

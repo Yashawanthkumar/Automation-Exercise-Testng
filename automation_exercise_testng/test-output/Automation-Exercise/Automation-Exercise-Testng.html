@@ -1,0 +1,209 @@
+<html>
+<head>
+<title>TestNG:  Automation-Exercise-Testng</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Automation-Exercise-Testng</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>26/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Jan 04 09:52:58 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>471 seconds (471291 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.ae.tests.ReviewProductTest.reviewProducts()'><b>reviewProducts</b><br>Test class: com.ae.tests.ReviewProductTest</td>
+<td></td>
+<td>5</td>
+<td>com.ae.tests.ReviewProductTest@6ed3f258</td></tr>
+<tr>
+<td title='com.ae.tests.ContactUsFormTest.contactUs()'><b>contactUs</b><br>Test class: com.ae.tests.ContactUsFormTest</td>
+<td></td>
+<td>8</td>
+<td>com.ae.tests.ContactUsFormTest@41709512</td></tr>
+<tr>
+<td title='com.ae.tests.VerifyProductQuantityInCartTest.productQuantityIncart()'><b>productQuantityIncart</b><br>Test class: com.ae.tests.VerifyProductQuantityInCartTest</td>
+<td></td>
+<td>3</td>
+<td>com.ae.tests.VerifyProductQuantityInCartTest@2e1ef60</td></tr>
+<tr>
+<td title='com.ae.tests.ViewCategoryProductsTest.viewCategoryProducts()'><b>viewCategoryProducts</b><br>Test class: com.ae.tests.ViewCategoryProductsTest</td>
+<td></td>
+<td>5</td>
+<td>com.ae.tests.ViewCategoryProductsTest@68b32e3e</td></tr>
+<tr>
+<td title='com.ae.tests.DownloadInvoiceTest.downloadInvoiceAPurchase()'><b>downloadInvoiceAPurchase</b><br>Test class: com.ae.tests.DownloadInvoiceTest</td>
+<td></td>
+<td>16</td>
+<td>com.ae.tests.DownloadInvoiceTest@a87f8ec</td></tr>
+<tr>
+<td title='com.ae.tests.PORegisterWCheckOutTest.pORegisterWhileCheckout()'><b>pORegisterWhileCheckout</b><br>Test class: com.ae.tests.PORegisterWCheckOutTest</td>
+<td></td>
+<td>12</td>
+<td>com.ae.tests.PORegisterWCheckOutTest@42039326</td></tr>
+<tr>
+<td title='com.ae.tests.SearchProductTest.verifyProductsDetails()'><b>verifyProductsDetails</b><br>Test class: com.ae.tests.SearchProductTest</td>
+<td></td>
+<td>3</td>
+<td>com.ae.tests.SearchProductTest@5443d039</td></tr>
+<tr>
+<td title='com.ae.tests.ProductsAndDetailsTest.verifyProductsDetails()'><b>verifyProductsDetails</b><br>Test class: com.ae.tests.ProductsAndDetailsTest</td>
+<td></td>
+<td>5</td>
+<td>com.ae.tests.ProductsAndDetailsTest@7f132176</td></tr>
+<tr>
+<td title='com.ae.tests.ScrollWithUpButtonTest.scrollWithUpButtonTest()'><b>scrollWithUpButtonTest</b><br>Test class: com.ae.tests.ScrollWithUpButtonTest</td>
+<td></td>
+<td>0</td>
+<td>com.ae.tests.ScrollWithUpButtonTest@6eb2384f</td></tr>
+<tr>
+<td title='com.ae.tests.ScrollWithoutUpButtonTest.scrollWithOutUpButtonTest()'><b>scrollWithOutUpButtonTest</b><br>Test class: com.ae.tests.ScrollWithoutUpButtonTest</td>
+<td></td>
+<td>0</td>
+<td>com.ae.tests.ScrollWithoutUpButtonTest@40db2a24</td></tr>
+<tr>
+<td title='com.ae.tests.InvalidLoginTest.invalidSignIn()'><b>invalidSignIn</b><br>Test class: com.ae.tests.InvalidLoginTest</td>
+<td></td>
+<td>2</td>
+<td>com.ae.tests.InvalidLoginTest@30af5b6b</td></tr>
+<tr>
+<td title='com.ae.tests.LogOutUserTest.signInAndLogOut()'><b>signInAndLogOut</b><br>Test class: com.ae.tests.LogOutUserTest</td>
+<td></td>
+<td>4</td>
+<td>com.ae.tests.LogOutUserTest@48e92c5c</td></tr>
+<tr>
+<td title='com.ae.tests.PORegisterBCheckOutTest.pORegisterBeforeCheckout()'><b>pORegisterBeforeCheckout</b><br>Test class: com.ae.tests.PORegisterBCheckOutTest</td>
+<td></td>
+<td>1</td>
+<td>com.ae.tests.PORegisterBCheckOutTest@19835e64</td></tr>
+<tr>
+<td title='com.ae.tests.CartPageSubscriptionTest.verifyCartInSubscription()'><b>verifyCartInSubscription</b><br>Test class: com.ae.tests.CartPageSubscriptionTest</td>
+<td></td>
+<td>0</td>
+<td>com.ae.tests.CartPageSubscriptionTest@7d1cfb8b</td></tr>
+<tr>
+<td title='com.ae.tests.AddProductsToCartTest.addProductTocart()'><b>addProductTocart</b><br>Test class: com.ae.tests.AddProductsToCartTest</td>
+<td></td>
+<td>16</td>
+<td>com.ae.tests.AddProductsToCartTest@177bea38</td></tr>
+<tr>
+<td title='com.ae.tests.SearchProductVerifyInCartAloginTest.searchAndVefiryProductInCart()'><b>searchAndVefiryProductInCart</b><br>Test class: com.ae.tests.SearchProductVerifyInCartAloginTest</td>
+<td></td>
+<td>17</td>
+<td>com.ae.tests.SearchProductVerifyInCartAloginTest@10cf09e8</td></tr>
+<tr>
+<td title='com.ae.tests.ViewCartBrandProductsTest.viewCategoryProducts()'><b>viewCategoryProducts</b><br>Test class: com.ae.tests.ViewCartBrandProductsTest</td>
+<td></td>
+<td>10</td>
+<td>com.ae.tests.ViewCartBrandProductsTest@1921ad94</td></tr>
+<tr>
+<td title='com.ae.tests.AddToCartFRecomendsTest.addProductTocart()'><b>addProductTocart</b><br>Test class: com.ae.tests.AddToCartFRecomendsTest</td>
+<td></td>
+<td>73</td>
+<td>com.ae.tests.AddToCartFRecomendsTest@63787180</td></tr>
+<tr>
+<td title='com.ae.tests.VerifyTestCasesTest.verifyTestCases()'><b>verifyTestCases</b><br>Test class: com.ae.tests.VerifyTestCasesTest</td>
+<td></td>
+<td>0</td>
+<td>com.ae.tests.VerifyTestCasesTest@bcef303</td></tr>
+<tr>
+<td title='com.ae.tests.RegisterTest.registerUser()'><b>registerUser</b><br>Test class: com.ae.tests.RegisterTest</td>
+<td></td>
+<td>1</td>
+<td>com.ae.tests.RegisterTest@386f0da3</td></tr>
+<tr>
+<td title='com.ae.tests.POLoginBCheckOutTest.pOLoginBeforeCheckout()'><b>pOLoginBeforeCheckout</b><br>Test class: com.ae.tests.POLoginBCheckOutTest</td>
+<td></td>
+<td>20</td>
+<td>com.ae.tests.POLoginBCheckOutTest@4f9a2c08</td></tr>
+<tr>
+<td title='com.ae.tests.HomePageSubscriptionTest.verifingSubscription()'><b>verifingSubscription</b><br>Test class: com.ae.tests.HomePageSubscriptionTest</td>
+<td></td>
+<td>0</td>
+<td>com.ae.tests.HomePageSubscriptionTest@33308786</td></tr>
+<tr>
+<td title='com.ae.tests.ExistEmailRegistrationTest.existingEmailVeify()'><b>existingEmailVeify</b><br>Test class: com.ae.tests.ExistEmailRegistrationTest</td>
+<td></td>
+<td>1</td>
+<td>com.ae.tests.ExistEmailRegistrationTest@8ad6665</td></tr>
+<tr>
+<td title='com.ae.tests.RemoveProductFromCartTest.registerUser()'><b>registerUser</b><br>Test class: com.ae.tests.RemoveProductFromCartTest</td>
+<td></td>
+<td>7</td>
+<td>com.ae.tests.RemoveProductFromCartTest@ee86bcb</td></tr>
+<tr>
+<td title='com.ae.tests.VerifyAdressInCheckOutPageTest.pOLoginBeforeCheckout()'><b>pOLoginBeforeCheckout</b><br>Test class: com.ae.tests.VerifyAdressInCheckOutPageTest</td>
+<td></td>
+<td>12</td>
+<td>com.ae.tests.VerifyAdressInCheckOutPageTest@22356acd</td></tr>
+<tr>
+<td title='com.ae.tests.ValidLoginTest.validSignIn()'><b>validSignIn</b><br>Test class: com.ae.tests.ValidLoginTest</td>
+<td></td>
+<td>4</td>
+<td>com.ae.tests.ValidLoginTest@39655d3e</td></tr>
+</table><p>
+</body>
+</html>
